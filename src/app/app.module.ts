@@ -22,6 +22,8 @@ import { SessionDetailPage } from '../pages/session-detail/session-detail';
 import { SignupPage } from '../pages/signup/signup';
 import { SpeakerDetailPage } from '../pages/speaker-detail/speaker-detail';
 import { SpeakerListPage } from '../pages/speaker-list/speaker-list';
+import { TeamListPage } from '../pages/team-list/team-list';
+import { QuestionAnswerPage } from '../pages/question-answer/question-answer';
 import { TabsPage } from '../pages/tabs-page/tabs-page';
 import { TutorialPage } from '../pages/tutorial/tutorial';
 import { SupportPage } from '../pages/support/support';
@@ -44,6 +46,8 @@ import { UserData } from '../providers/user-data';
     SignupPage,
     SpeakerDetailPage,
     SpeakerListPage,
+    TeamListPage,
+    QuestionAnswerPage,
     TabsPage,
     TutorialPage,
     SupportPage
@@ -58,6 +62,8 @@ import { UserData } from '../providers/user-data';
         { component: SessionDetailPage, name: 'SessionDetail', segment: 'sessionDetail/:sessionId' },
         { component: ScheduleFilterPage, name: 'ScheduleFilter', segment: 'scheduleFilter' },
         { component: SpeakerListPage, name: 'SpeakerList', segment: 'speakerList' },
+        { component: TeamListPage, name: 'TeamList', segment: 'teamList' },
+        { component: QuestionAnswerPage, name: 'QuestionAnswerPage', segment: 'questionAnswer' },
         { component: SpeakerDetailPage, name: 'SpeakerDetail', segment: 'speakerDetail/:speakerId' },
         { component: MapPage, name: 'Map', segment: 'map' },
         { component: AboutPage, name: 'About', segment: 'about' },
@@ -84,6 +90,8 @@ import { UserData } from '../providers/user-data';
     SignupPage,
     SpeakerDetailPage,
     SpeakerListPage,
+    TeamListPage,
+    QuestionAnswerPage,
     TabsPage,
     TutorialPage,
     SupportPage

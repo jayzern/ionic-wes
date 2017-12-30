@@ -327,6 +327,13 @@
   }],
 
 
+  "team": [{
+    "name": "Chris Stone"
+  }, {
+    "name": "Elias Ngombwe"
+  }],
+
+
   "map": [{
     "name": "Warwick University",
     "lat": 52.379530,
