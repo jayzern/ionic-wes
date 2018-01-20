@@ -90,7 +90,7 @@
         "speakerNames": ["Karl Kitten", "Lionel Lion"],
         "timeStart": "11:00 am",
         "timeEnd": "11:45 am",
-        "tracks": ["Workshop"],
+          "tracks": ["Workshop"],
         "id": "9"
       }, {
         "name": "Community Interaction",
@@ -328,9 +328,21 @@
 
 
   "team": [{
-    "name": "Chris Stone"
+    "name": "Summit Coordinators"
   }, {
-    "name": "Elias Ngombwe"
+    "name": "Finance and Sponsorship"
+  }, {
+    "name": "Talks"
+  }, {
+    "name": "Tech"
+  }, {
+    "name": "Internal Marketing and Operations"
+  }, {
+    "name": "External Marketing and Hospitality"
+  }, {
+    "name": "Communications"
+  }, {
+    "name": "Social Events"
   }],
 
 

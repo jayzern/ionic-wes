@@ -31,6 +31,7 @@ export interface ActionSheetButton {
 export class TeamListPage {
   actionSheet: ActionSheet;
   speakers: any[] = [];
+  team: any[] = [];
 
   constructor(
     public actionSheetCtrl: ActionSheetController,
@@ -41,11 +42,13 @@ export class TeamListPage {
   ) {}
 
   ionViewDidLoad() {
-    this.confData.getSpeakers().subscribe((speakers: any[]) => {
-      this.speakers = speakers;
+    // Fetches teams
+    this.confData.getTeam().subscribe((team: any[]) => {
+      this.team = team;
     });
   }
 
+  // TODO: delete sessions later
   goToSessionDetail(session: any) {
     this.navCtrl.push(SessionDetailPage, { sessionId: session.id });
   }
@@ -61,6 +64,7 @@ export class TeamListPage {
     );
   }
 
+  /*
   openSpeakerShare(speaker: any) {
     let actionSheet = this.actionSheetCtrl.create({
       title: 'Share ' + speaker.name,
@@ -88,6 +92,7 @@ export class TeamListPage {
 
     actionSheet.present();
   }
+  */
 
   openContact(speaker: any) {
     let mode = this.config.get('mode');

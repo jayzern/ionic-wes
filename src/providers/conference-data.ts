@@ -140,6 +140,13 @@ export class ConferenceData {
     });
   }
 
+  // Jay: fetches team members
+  getTeam() {
+    return this.load().map(() => {
+      return this.data.team;
+    });
+  }
+
   getTracks() {
     return this.load().map((data: any) => {
       return data.tracks.sort();

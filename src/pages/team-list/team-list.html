@@ -8,13 +8,20 @@
 </ion-header>
 
 <ion-content class="outer-content speaker-list">
-  <ion-list [virtualScroll]="speakers">
+  <ion-list [virtualScroll]="team">
     <ion-grid fixed>
       <ion-row align-items-stretch>
 
-        <ion-col col-12 col-md-6 align-self-stretch align-self-center *virtualItem="let speaker" approxItemHeight="457px">
+        <ion-col col-12 col-md-6 align-self-stretch align-self-center *virtualItem="let team" approxItemHeight="457px">
 
-          <ion-card class="speaker-card"> <!-- This is one card -->
+          <ion-card class="speaker-card">
+            <ion-card-header >
+              {{team.name}}
+            </ion-card-header>
+          </ion-card>
+
+          <!--
+          <ion-card class="speaker-card">
             <ion-card-header>
               <button ion-item detail-none (click)="goToSpeakerDetail(speaker)">
                 <ion-avatar item-start>
@@ -58,6 +65,7 @@
             </ion-row>
 
           </ion-card>
+        -->
 
         </ion-col>
       </ion-row>
