@@ -6,17 +6,17 @@ import { SplashScreen } from '@ionic-native/splash-screen';
 import { Storage } from '@ionic/storage';
 
 import { AboutPage } from '../pages/about/about';
-import { AccountPage } from '../pages/account/account';
-import { LoginPage } from '../pages/login/login';
+//import { AccountPage } from '../pages/account/account';
+//import { LoginPage } from '../pages/login/login';
 import { MapPage } from '../pages/map/map';
-import { SignupPage } from '../pages/signup/signup';
+//import { SignupPage } from '../pages/signup/signup';
 import { TabsPage } from '../pages/tabs-page/tabs-page';
 import { TutorialPage } from '../pages/tutorial/tutorial';
 import { SchedulePage } from '../pages/schedule/schedule';
 import { SpeakerListPage } from '../pages/speaker-list/speaker-list';
 import { TeamListPage } from '../pages/team-list/team-list';
 import { QuestionAnswerPage } from '../pages/question-answer/question-answer';
-import { SupportPage } from '../pages/support/support';
+//import { SupportPage } from '../pages/support/support';
 
 import { ConferenceData } from '../providers/conference-data';
 import { UserData } from '../providers/user-data';
@@ -50,7 +50,7 @@ export class ConferenceApp {
     { title: 'About', name: 'TabsPage', component: TabsPage, tabComponent: AboutPage, index: 3, icon: 'information-circle' },
     { title: 'Team', name: 'TabsPage', component: TabsPage, tabComponent: TeamListPage, index: 4, icon: 'people' },
     { title: 'Q&A', name: 'TabsPage', component: TabsPage, tabComponent: QuestionAnswerPage, index: 5, icon: 'help' }
-  ];
+  ];/*
   loggedInPages: PageInterface[] = [
     { title: 'Account', name: 'AccountPage', component: AccountPage, icon: 'person' },
     { title: 'Support', name: 'SupportPage', component: SupportPage, icon: 'help' },
@@ -60,7 +60,7 @@ export class ConferenceApp {
     { title: 'Login', name: 'LoginPage', component: LoginPage, icon: 'log-in' },
     { title: 'Support', name: 'SupportPage', component: SupportPage, icon: 'help' },
     { title: 'Signup', name: 'SignupPage', component: SignupPage, icon: 'person-add' }
-  ];
+  ];*/
   rootPage: any;
 
   constructor(
