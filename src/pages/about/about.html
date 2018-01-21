@@ -14,38 +14,33 @@
 
 <ion-content>
   <div class="about-header">
-    <img src="assets/img/ionic-logo-white.svg" alt="ionic logo">
+    <img src="assets/img/oculus.jpg">
   </div>
   <div padding class="about-info">
-    <h4>Ionic Conference</h4>
+    <!-- <h4> WES2018 </h4> -->
 
     <ion-list no-lines>
       <ion-item>
         <ion-icon name="calendar" item-start></ion-icon>
         <ion-label>Date</ion-label>
-        <ion-datetime displayFormat="MMM DD, YYYY" max="2056" [(ngModel)]="conferenceDate"></ion-datetime>
+        <ion-datetime disabled displayFormat="MMM DD, YYYY" max="2056" [(ngModel)]="conferenceDate"></ion-datetime>
       </ion-item>
 
       <ion-item>
         <ion-icon name="pin" item-start></ion-icon>
         <ion-label>Location</ion-label>
-        <ion-select>
-          <ion-option value="madison" selected>Madison, WI</ion-option>
-          <ion-option value="austin">Austin, TX</ion-option>
-          <ion-option value="chicago">Chicago, IL</ion-option>
-          <ion-option value="seattle">Seattle, WA</ion-option>
+        <ion-select [disabled]="disableSelector">
+          <ion-option value="oculus" selected>Oculus Building</ion-option>
         </ion-select>
       </ion-item>
     </ion-list>
 
     <p>
-      The Ionic Conference is a one-day conference featuring talks from the
-      Ionic team. It is focused on Ionic applications being built with
-      Ionic 2. This includes migrating apps from Ionic 1 to Ionic 2,
-      Angular concepts, Webpack, Sass, and many other technologies used
-      in Ionic 2. Tickets are completely sold out, and we’re expecting
-      more than 1000 developers – making this the largest Ionic
-      conference ever!
+      The Warwick Economics Summit (WES) is one of the largest student-run conferences in Europe. Now having run for over a decade, the Summit has evolved in form and stature into a truly international forum where talented students from various universities listen to some of the world's most revered and inspirational speakers on a wide range of topics.
+    </p>
+
+    <p>
+      In its previous incarnations, the Summit has welcomed high calibre speakers, such as five Economics Nobel Laureates including Prof. George Akerlof and Prof. John F. Nash, Central Bank officials such as Vitor Constancio (Vice President of ECB) and Dr. Stanley Fischer (Vice Chair of the Federal Reserve), former Prime Ministers such as Enrico Letta (Italy) and Lionel Zinsou (Benin), and many other distinguished speakers such as Min Zhu (Deputy MD of the IMF) and Michael Moller (Director-General of the UN office at Geneva).
     </p>
   </div>
 </ion-content>

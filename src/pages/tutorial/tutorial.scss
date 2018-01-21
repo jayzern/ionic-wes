@@ -1,5 +1,8 @@
 
 page-tutorial {
+  .swiper-pagination-bullet-active {
+    background: red;
+  }
   .toolbar-background {
     background: transparent;
     border-color: transparent;
