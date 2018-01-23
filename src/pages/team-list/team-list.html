@@ -15,8 +15,8 @@
         <ion-col col-12 col-md-6 align-self-stretch align-self-center *virtualItem="let team" approxItemHeight="457px">
 
           <ion-card class="speaker-card">
-            <ion-card-header >
-              {{team.name}}
+            <ion-card-header (click)="goToTeamDetail(team)">
+              {{team.title}}
             </ion-card-header>
           </ion-card>
 

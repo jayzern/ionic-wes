@@ -328,21 +328,34 @@
 
 
   "team": [{
-    "name": "Summit Coordinators"
+    "title": "Summit Coordinators",
+    "members": [{
+        "name": "Chris Stone",
+        "position": "Coordinator",
+        "course": "Economics",
+        "year": "3rd",
+        "profilePic": "assets/img/speakers/turtle.jpg"
+    }, {
+        "name": "Elias Ngombwe",
+        "position": "Coordinator",
+        "course": "Economics",
+        "year": "3rd",
+        "profilePic": "assets/img/speakers/turtle.jpg"
+    }]
   }, {
-    "name": "Finance and Sponsorship"
+    "title": "Finance and Sponsorship"
   }, {
-    "name": "Talks"
+    "title": "Talks"
   }, {
-    "name": "Tech"
+    "title": "Tech"
   }, {
-    "name": "Internal Marketing and Operations"
+    "title": "Internal Marketing and Operations"
   }, {
-    "name": "External Marketing and Hospitality"
+    "title": "External Marketing and Hospitality"
   }, {
-    "name": "Communications"
+    "title": "Communications"
   }, {
-    "name": "Social Events"
+    "title": "Social Events"
   }],
 
 
