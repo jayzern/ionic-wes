@@ -329,6 +329,7 @@
 
   "team": [{
     "title": "Summit Coordinators",
+    "id": "1",
     "members": [{
         "name": "Chris Stone",
         "position": "Coordinator",
@@ -343,19 +344,26 @@
         "profilePic": "assets/img/speakers/turtle.jpg"
     }]
   }, {
-    "title": "Finance and Sponsorship"
+    "title": "Finance and Sponsorship",
+    "id": "2"
   }, {
-    "title": "Talks"
+    "title": "Talks",
+    "id": "3"
   }, {
-    "title": "Tech"
+    "title": "Tech",
+    "id": "4"
   }, {
-    "title": "Internal Marketing and Operations"
+    "title": "Internal Marketing and Operations",
+    "id": "5"
   }, {
-    "title": "External Marketing and Hospitality"
+    "title": "External Marketing and Hospitality",
+    "id": "6"
   }, {
-    "title": "Communications"
+    "title": "Communications",
+    "id": "7"
   }, {
-    "title": "Social Events"
+    "title": "Social Events",
+    "id": "8"
   }],
 
 

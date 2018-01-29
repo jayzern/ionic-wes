@@ -23,6 +23,7 @@ import { SignupPage } from '../pages/signup/signup';
 import { SpeakerDetailPage } from '../pages/speaker-detail/speaker-detail';
 import { SpeakerListPage } from '../pages/speaker-list/speaker-list';
 import { TeamListPage } from '../pages/team-list/team-list';
+import { TeamDetailPage } from '../pages/team-detail/team-detail';
 import { QuestionAnswerPage } from '../pages/question-answer/question-answer';
 import { TabsPage } from '../pages/tabs-page/tabs-page';
 import { TutorialPage } from '../pages/tutorial/tutorial';
@@ -47,6 +48,7 @@ import { UserData } from '../providers/user-data';
     SpeakerDetailPage,
     SpeakerListPage,
     TeamListPage,
+    TeamDetailPage,
     QuestionAnswerPage,
     TabsPage,
     TutorialPage,
@@ -65,6 +67,7 @@ import { UserData } from '../providers/user-data';
         { component: TeamListPage, name: 'TeamList', segment: 'teamList' },
         { component: QuestionAnswerPage, name: 'QuestionAnswerPage', segment: 'questionAnswer' },
         { component: SpeakerDetailPage, name: 'SpeakerDetail', segment: 'speakerDetail/:speakerId' },
+        { component: TeamDetailPage, name: 'teamDetail', segment: 'teamDetail/:teamId' },
         { component: MapPage, name: 'Map', segment: 'map' },
         { component: AboutPage, name: 'About', segment: 'about' },
         { component: TutorialPage, name: 'Tutorial', segment: 'tutorial' },
@@ -91,6 +94,7 @@ import { UserData } from '../providers/user-data';
     SpeakerDetailPage,
     SpeakerListPage,
     TeamListPage,
+    TeamDetailPage,
     QuestionAnswerPage,
     TabsPage,
     TutorialPage,
@@ -104,4 +108,5 @@ import { UserData } from '../providers/user-data';
     SplashScreen
   ]
 })
+
 export class AppModule { }

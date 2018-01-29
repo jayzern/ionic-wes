@@ -1,0 +1,14 @@
+<ion-header>
+  <ion-navbar>
+    <ion-title>{{team?.title}}</ion-title>
+  </ion-navbar>
+</ion-header>
+
+<ion-content>
+  <ion-item *ngFor="let member of members">
+  <p>{{member.name}}</p>
+  <p>{{member.position}}</p>
+  <p>{{member.course}}</p>
+  <p>{{member.year}}</p>
+  </ion-item>
+</ion-content>
