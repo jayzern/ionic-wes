@@ -43,14 +43,26 @@ export class ConferenceApp {
   // List of pages that can be navigated to from the left menu
   // the left menu only works after login
   // the login page disables the left menu
+
+  // Quick Navigation
   appPages: PageInterface[] = [
     { title: 'Schedule', name: 'TabsPage', component: TabsPage, tabComponent: SchedulePage, index: 0, icon: 'calendar' },
-    { title: 'Speakers', name: 'TabsPage', component: TabsPage, tabComponent: SpeakerListPage, index: 1, icon: 'contacts' },
+    //{ title: 'Speakers', name: 'TabsPage', component: TabsPage, tabComponent: SpeakerListPage, index: 1, icon: 'contacts' },
     { title: 'Map', name: 'TabsPage', component: TabsPage, tabComponent: MapPage, index: 2, icon: 'map' },
-    { title: 'About', name: 'TabsPage', component: TabsPage, tabComponent: AboutPage, index: 3, icon: 'information-circle' },
-    { title: 'Team', name: 'TabsPage', component: TabsPage, tabComponent: TeamListPage, index: 4, icon: 'people' },
+    //{ title: 'About', name: 'TabsPage', component: TabsPage, tabComponent: AboutPage, index: 3, icon: 'information-circle' },
+    //{ title: 'Team', name: 'TabsPage', component: TabsPage, tabComponent: TeamListPage, index: 4, icon: 'people' },
     { title: 'Q&A', name: 'TabsPage', component: TabsPage, tabComponent: QuestionAnswerPage, index: 5, icon: 'help' }
-  ];/*
+  ];
+
+  // Main Menu
+  mainMenuPages: PageInterface[] = [
+    { title: 'Speakers', name: 'SpeakerList', component: SpeakerListPage, icon: 'contacts' },
+    { title: 'About', name: 'About', component: AboutPage, icon: 'information-circle' },
+    { title: 'Team', name: 'TeamList', component: TeamListPage, icon: 'people' },
+  ];
+
+
+  /*
   loggedInPages: PageInterface[] = [
     { title: 'Account', name: 'AccountPage', component: AccountPage, icon: 'person' },
     { title: 'Support', name: 'SupportPage', component: SupportPage, icon: 'help' },

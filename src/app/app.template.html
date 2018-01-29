@@ -17,7 +17,7 @@
 
       <ion-list>
         <ion-list-header>
-          Navigate
+          Quick Navigation
         </ion-list-header>
         <button ion-item menuClose *ngFor="let p of appPages" (click)="openPage(p)">
           <ion-icon item-start [name]="p.icon" [color]="isActive(p)"></ion-icon>
@@ -39,58 +39,21 @@
 
       <ion-list>
         <ion-list-header>
-        Start
+        Main Menu
         </ion-list-header>
+        <!-- Coordinator's Message -->
         <button ion-item menuClose (click)="openTutorial()">
           <ion-icon item-start name="paper"></ion-icon>
           Coordinator's Message
         </button>
-      </ion-list>
-    </ion-content>
 
-  </ion-menu>
-
-  <!-- logged in menu -->
-  <ion-menu id="loggedInMenu" [content]="content">
-
-    <ion-header>
-      <ion-toolbar>
-        <ion-title>Menu</ion-title>
-      </ion-toolbar>
-    </ion-header>
-
-    <ion-content class="outer-content">
-
-      <ion-list>
-        <ion-list-header>
-          Navigate
-        </ion-list-header>
-        <button ion-item menuClose *ngFor="let p of appPages" (click)="openPage(p)">
+        <!-- Speakers -->
+        <button ion-item menuClose *ngFor="let p of mainMenuPages" (click)="openPage(p)">
           <ion-icon item-start [name]="p.icon" [color]="isActive(p)"></ion-icon>
           {{p.title}}
         </button>
-      </ion-list>
 
-      <ion-list>
-        <ion-list-header>
-          Account
-        </ion-list-header>
-        <button ion-item menuClose *ngFor="let p of loggedInPages" (click)="openPage(p)">
-          <ion-icon item-start [name]="p.icon" [color]="isActive(p)"></ion-icon>
-          {{p.title}}
-        </button>
       </ion-list>
-
-      <ion-list>
-        <ion-list-header>
-          Tutorial
-        </ion-list-header>
-        <button ion-item menuClose (click)="openTutorial()">
-          <ion-icon item-start name="hammer"></ion-icon>
-          Show Tutorial
-        </button>
-      </ion-list>
-
     </ion-content>
 
   </ion-menu>
