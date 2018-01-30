@@ -408,7 +408,6 @@
     "id": "13"
   }],
 
-
   "team": [{
     "title": "Summit Coordinators",
     "picture": "assets/img/team/summitcoordinators.jpg",
@@ -418,13 +417,15 @@
         "position": "Coordinator",
         "course": "Economics",
         "year": "3rd Year",
-        "profilePic": "assets/img/members/chris_stone.jpg"
+        "profilePic": "assets/img/members/chris_stone.jpg",
+        "Biography": "After having led the finance team in his second year, Chris felt he could do one better, and embark on the greatest challenge of all... 'head coordinator'. When Chris is not busy guiding and communicating with all 7 teams, he is obsessed with F1 and this would not be a bio about him, if it were not to be included. Chris is excited to help make WES2018 the best yet."
     }, {
         "name": "Elias Ngombwe",
         "position": "Coordinator",
         "course": "Economics",
         "year": "3rd Year",
-        "profilePic": "assets/img/speakers/elias_ngombwe.jpg"
+        "profilePic": "assets/img/members/elias_ngombwe.jpg",
+        "Biography": "Having been constantly involved with WES Talks Team from his fourth week at University, Elias couldn't imagine uni life without WES, so decided to take on the challenge of leading the team. He is excited to work with and motivate the team to increase the Summit's prestige worldwide and deliver the best conference to date! Elias’s interests include art and history and he enjoys mountain trekking."
     }]
   }, {
     "title": "Finance and Sponsorship",
@@ -435,38 +436,179 @@
         "position": "Deputy Coordinator",
         "course": "PPE",
         "year": "2nd Year",
-        "profilePic": "assets/img/members/gabriel_dumfahrt.jpg"
+        "profilePic": "assets/img/members/gabriel_dumfahrt.jpg",
+        "Biography": "Having spent his entire first year sitting in a dark room envying two of his flatmates that were part of WES, Gabriel decided to wipe away his tears and contribute to this amazing project. As part of the Finance & Sponsorship team, he helps creating and maintaining mutually beneficial relationships with the Summit's sponsors to ensure long-term funding. In his free time, Gabriel likes to complain about his degree, his workload and occasionaly puts in a shift for the PPE FC."
     }, {
         "name": "Maike Kusserow",
         "position": "Deputy Coordinator",
         "course": "EPAIS",
         "year": "2nd Year",
-        "profilePic": "assets/img/speakers/maike_kusserow.jpg"
+        "profilePic": "assets/img/speakers/maike_kusserow.jpg",
+        "Biography": "Maike joined the WES2017 communications team as a first-year EPAIS student. A few months later she was on stage at the Summit as Master of Ceremonies. Having found WES such an incredibly fun experience, Maike decided to stay on the team and is now helping lead the Finance & Sponsorship team. Other than scouring the horizon for potential sponsorship money, Maike also loves making music."
+    }, {
+        "name": "Sunaina Malaviya",
+        "position": "Finance Coordinator",
+        "course": "Economics",
+        "year": "3rd Year",
+        "profilePic": "assets/img/speakers/sunaina_malaviya.jpg",
+        "Biography": "After 2 exciting years with WES, Sunaina’s back for a third time and she’s on a mission to ensure that WES’ sponsors get the best exposure possible on campus! She’s not only acquired some of the most valuable skills whilst organising this conference but has also made some of her closest friends on the team. When she’s not cramming in the library or filling in money request forms, Sunaina enjoys long naps and catching up with the tennis."
+    }, {
+        "name": "Charlie Levy",
+        "position": "Sponsorship Coordinator",
+        "course": "Economics",
+        "year": "3rd Year",
+        "profilePic": "assets/img/speakers/charlie_levy.jpg",
+        "Biography": "After joining WES as the Socials Coordinator in her second year, Charlie has taken on a completely new challenge with Finance and Sponsorship in 2018. Rather than depleting the WES budget as she did with Socials, she is now expanding it, building and continuing WES relations with sponsors, helping the Summit go from strength to strength. In her spare time, if Charlie isn't planning her next holiday, she is watching makeup tutorials and eating frozen yoghurt."
     }]
   }, {
     "title": "Talks",
     "picture": "assets/img/team/talks.jpg",
-    "id": "3"
+    "id": "3",
+    "members": [{
+    	"name": "Stephan Hobler",
+    	"position": "Coordinator",
+        "course": "Economics",
+        "year": "3rd Year",
+        "profilePic": "assets/img/speakers/stephan_hobler.jpg",
+        "Biography": "A Talks team member the previous year Stephan was thoroughly amazed by the passion, commitment and team spirit of everyone on the Summit. So much so that there was no doubt that he will be part of WES2018. In his new role as Coordinator he hopes to continue to be the Austrian anchor of efficiency, work ethic and dedication that will bring together the most prominent, inspiring and entertaining speaker line-up up to date."
+    }, {
+    	"name": "Adam Nowakowski",
+    	"position": "Deputy Coordinator",
+        "course": "Economics",
+        "year": "2nd Year",
+        "profilePic": "assets/img/speakers/adam_nowakowski.jpg",
+        "Biography": "Eat, Sleep, WES. Since starting his degree, Adam has adhered to this mantra day in and day out. Following a roller-coaster first year on Talks, he is confident that we already have the best and most diverse selection of speakers up-to-date. Aside from his academic interests, Adam is a passionate sailor, skier and kite surfer, but also enjoys outplaying the rest of Talks at basketball, reading and playing the guitar."
+    }, {
+    	"name": "Alex Jorgensen Yturriaga",
+    	"position": "Deputy Coordinator",
+        "course": "Economics",
+        "year": "3rd Year",
+        "profilePic": "assets/img/speakers/alex_jorgensen_yturriaga.jpg",
+        "Biography": "Having joined Talks as a team member in WES17, Alex not only had the chance to contact and bring spekaers from all around the world, but also gave a seminar on European politics and interviewed one of the speakers. Now he is trying to surpass it by leading the Talks team and making WES18 lineup the best one ever. In his free time, Alex likes watching and playing football as well as binge-watching."
+    }]
   }, {
     "title": "Tech",
     "picture": "assets/img/team/tech.jpg",
-    "id": "4"
+    "id": "4",
+    "members": [{
+    	"name": "Artur Begyan",
+    	"position": "Coordinator",
+        "course": "Economics",
+        "year": "2nd Year",
+        "profilePic": "assets/img/speakers/artur_begyan.jpg",
+        "Biography": "Artur joined WES2017 as a tech team member. Throughout the preparation for the Summit, Artur has developed several skills ranging from operating a video mixer to handling a livestream. This year Artur is heading the tech team and wants to redesign the web infrastructure of WES. When Artur is free he enjoys playing football and chess."
+    }, {
+    	"name": "Eamonn Jasem",
+    	"position": "Deputy Coordinator",
+        "course": "Economics",
+        "year": "2nd Year",
+        "profilePic": "assets/img/speakers/eamonn_jasem.jpg",
+        "Biography": "Now on his second year of being on Tech, Eamonn is looking forward to making sure nothing falls apart during the summit whether it's the lighting, cameras or the livestream. A connoisseur of all good things in life, Eamonn enjoys practically anything – including music, sports, fine foods, reading and games."
+	}, {
+		"name": "Jay Zern Ng",
+    	"position": "Deputy Coordinator",
+        "course": "Data Science",
+        "year": "2nd Year",
+        "profilePic": "assets/img/speakers/jay_zern_ng.jpg",
+        "Biography": "Having joined the Tech Team as the Deputy Coordinator this year, Jay hopes to improve the Summit in terms of Web Development and IT infrastructure. He knows that with the help of his team, he can succeed. In his free time, Jay enjoys playing music and joining nerdy programming competitions."
+    }]
   }, {
     "title": "Internal Marketing and Operations",
     "picture": "assets/img/team/imo.jpg",
-    "id": "5"
+    "id": "5",
+    "members": [{
+    	"name": "Gabriele Stravinskaite",
+    	"position": "Coordinator",
+        "course": "PPE",
+        "year": "2nd Year",
+        "profilePic": "assets/img/speakers/gabriele_stravinskaite.jpg",
+        "Biography": "After joining WES last year as a photographer, Gabriele felt there were more ways to improve WES than just through better pictures. This year, as Internal Marketing & Operations coordinator, she is committed to make the Summit more professional and engaging. When Gabriele isn’t designing something for WES, she enjoys photography, travelling and long conversations."
+    }, {
+    	"name": "James Bye",
+    	"position": "Deputy Coordinator",
+        "course": "History & Politics",
+        "year": "2nd Year",
+        "profilePic": "assets/img/speakers/james_bye.jpg",
+        "Biography": "James joined the WES2017 internal marketing team in his first-year as a History & Politics student. After a record-breaking year, with tickets selling out in less than a minute, James is looking forward to besting the teams previous performance. Other than frantically designing adobe templates, James also loves rugby, travelling and politics."
+    }, {
+    	"name": "Thomas Bentze",
+    	"position": "Deputy Coordinator",
+        "course": "EPAIS",
+        "year": "3rd Year",
+        "profilePic": "assets/img/speakers/thomas_bentze.jpg",
+        "Biography": "Having joined WES in second year Thomas was astounded by the quality of the Summit and the drive of its organising team. Seizing the opportunity to broaden the Summit's horizons by becoming IMO Coordinator, Thomas is now very excited to work with a very dedicated new team. Thomas enjoys most things in life except the Copper Rooms."
+    }]
   }, {
     "title": "External Marketing and Hospitality",
     "picture": "assets/img/team/emh.jpg",
-    "id": "6"
+    "id": "6",
+    "members": [{
+    	"name": "Klaudia Gegotek",
+    	"position": "Coordinator",
+        "course": "PPE",
+        "year": "2nd Year",
+        "profilePic": "assets/img/speakers/klaudia_gegotek.jpg",
+        "Biography": "Klaudia was one of those overly keen people who have found out about WES even before coming to Warwick. Impressed and fascinated by its multinational audience that gathers on one weekend to listen to a discussion of current topics by world-renowned speakers, she joined in her first year of uni as External Marketing and Hospitlaity team member. She continues her incredible adventure with WES this year as Head of EMH, trying to make it an even better experience for our external friends!"
+    }, {
+    	"name": "Alice Tumidei",
+    	"position": "Deputy Coordinator",
+        "course": "PPE",
+        "year": "3rd Year",
+        "profilePic": "assets/img/speakers/alice_tumidei.jpg",
+        "Biography": "After attending WES as a delegate during her first year at University, Alice was so impressed by the Summit that she absolutely wanted to join the organising team. She was part of Socials for WES2017, and she is now in External Marketing and Hospitality, loving the mixture between precise organisational work and creative and social tasks and aiming to bring WES to an ever-greater international audience. Alice has a passion for fashion, food, and arts."
+    }, {
+    	"name": "Priyanshi Shah",
+    	"position": "Deputy Coordinator",
+        "course": "EPAIS",
+        "year": "3rd Year",
+        "profilePic": "assets/img/speakers/priyanshi_shah.jpg",
+        "Biography": "After organizing other smaller conferences at university, as a final year student, Priyanshi wanted to venture into something at a much larger and diverse scale which led her to join the Warwick Economics Summit. Coming from an international background, she found the External Marketing and Hospitality team a perfect fit and is keen to bring the summit to a more global platform by inviting delegates from all around the world to join the debate. In her spare time, she enjoys creating travel bucket lists, dancing and photography."
+    }, {
+    	"name": "Wera Ruan",
+    	"position": "Deputy Coordinator",
+        "course": "Economics",
+        "year": "2nd Year",
+        "profilePic": "assets/img/speakers/wera_ruan.jpg",
+        "Biography": "If there was a full-time EMH job, Wera would definitely take it after her degree. Having been on the EMH team since she started at Warwick, Wera has made friends from different universities, and this year she is excited to make the Summit reach even greater and to help external delegates to have an even more exciting weekend with WES."
+    }]
   }, {
     "title": "Communications",
     "picture": "assets/img/team/communcations.jpg",
-    "id": "7"
+    "id": "7",
+    "members": [{
+    	"name": "Anisha Bhavnani",
+    	"position": "Co-Coordinator",
+        "course": "EPAIS",
+        "year": "3rd Year",
+        "profilePic": "assets/img/speakers/anisha_bhavnani.jpg",
+        "Biography": "After an insightful year as a Communications Team Member, Anisha was astounded by the phenomenal impact of the Summit and the hard work and commitment that goes into making it a success. She was ready to take up the responsibility of the Communications Coordinator, to enhance this impact along with her team. In her free time, Anisha enjoys playing her ukulele and writing – she has her own blog titled ‘Adoxographia’."
+    }, {
+    	"name": "Carlo Rubini",
+    	"position": "Co-Coordinator",
+        "course": "Economics",
+        "year": "3rd Year",
+        "profilePic": "assets/img/speakers/carlo_rubini.jpg",
+        "Biography": "After a memorable experience as a WES delegate in 2017, Carlo saw WES 2018 as the perfect opportunity to shape the student experience and leave his mark on campus during his final year at Warwick. Together with his team, he is motivated to develop WES as an ongoing platform for debate, which goes beyond the weekend of the Summit, and is keen on delivering innovative ideas to make the communication channels of WES more interactive and engaging, starting from a restyled Blog. Carlo’s hobbies include playing tennis, learning languages and art history."
+    }]
   }, {
     "title": "Social Events",
     "picture": "assets/img/team/socials.jpg",
-    "id": "8"
+    "id": "8",
+    "members": [{
+    	"name": "Aneesah Sarwar",
+    	"position": "Co-Coordinator",
+        "course": "Economics",
+        "year": "2nd Year",
+        "profilePic": "assets/img/speakers/aneesah_sarwar.jpg",
+        "Biography": "After discovering WES on her open day, Aneesah knew it was something she was keen to get involved in and did so as a team member for socials. She was then ready to take on the challenge of Socials Coordinator. With the help of her carefully selected team, she is excited to put together some incredible social events for the team, as well as the best ball to date. Aneesah enjoys trying new foods, gyming and meeting new people."
+    }, {
+    	"name": "Polina Levyant",
+    	"position": "Co-Coordinator",
+        "course": "Economics",
+        "year": "2nd Year",
+        "profilePic": "assets/img/speakers/polina_levyant.jpg",
+        "Biography": "As a member of the Socials team last year Polina has enjoyed the combination of creativity, hard work and organisation required for the job. She has greatly contributed to team building activities, like paint-balling and the tour, as well as coming up with the theme for the ball, which this year she will help to make grander and more memorable. Polina is well travelled and is an absolute food and art fanatic, but she also enjoys skiing and hiking."
+    }]
   }],
 
   "map": [{
