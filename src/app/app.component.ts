@@ -47,11 +47,8 @@ export class ConferenceApp {
   // Quick Navigation
   appPages: PageInterface[] = [
     { title: 'Schedule', name: 'TabsPage', component: TabsPage, tabComponent: SchedulePage, index: 0, icon: 'calendar' },
-    //{ title: 'Speakers', name: 'TabsPage', component: TabsPage, tabComponent: SpeakerListPage, index: 1, icon: 'contacts' },
-    { title: 'Map', name: 'TabsPage', component: TabsPage, tabComponent: MapPage, index: 2, icon: 'map' },
-    //{ title: 'About', name: 'TabsPage', component: TabsPage, tabComponent: AboutPage, index: 3, icon: 'information-circle' },
-    //{ title: 'Team', name: 'TabsPage', component: TabsPage, tabComponent: TeamListPage, index: 4, icon: 'people' },
-    { title: 'Q&A', name: 'TabsPage', component: TabsPage, tabComponent: QuestionAnswerPage, index: 5, icon: 'help' }
+    { title: 'Map', name: 'TabsPage', component: TabsPage, tabComponent: MapPage, index: 1, icon: 'map' },
+    { title: 'Q&A', name: 'TabsPage', component: TabsPage, tabComponent: QuestionAnswerPage, index: 2, icon: 'help' }
   ];
 
   // Main Menu

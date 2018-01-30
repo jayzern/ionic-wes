@@ -15,11 +15,8 @@ import { QuestionAnswerPage } from '../question-answer/question-answer';
 export class TabsPage {
   // set the root pages for each tab
   tab1Root: any = SchedulePage;
-  //tab2Root: any = SpeakerListPage;
-  tab3Root: any = MapPage;
-  //tab4Root: any = AboutPage;
-  //tab5Root: any = TeamListPage;
-  tab6Root: any = QuestionAnswerPage;
+  tab2Root: any = MapPage;
+  tab3Root: any = QuestionAnswerPage;
   mySelectedIndex: number;
 
   constructor(navParams: NavParams) {
