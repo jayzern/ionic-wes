@@ -28,6 +28,7 @@ import { QuestionAnswerPage } from '../pages/question-answer/question-answer';
 import { TabsPage } from '../pages/tabs-page/tabs-page';
 import { TutorialPage } from '../pages/tutorial/tutorial';
 import { SupportPage } from '../pages/support/support';
+import { NotificationsPage } from '../pages/notifications/notifications';
 
 import { ConferenceData } from '../providers/conference-data';
 import { UserData } from '../providers/user-data';
@@ -52,6 +53,7 @@ import { UserData } from '../providers/user-data';
     QuestionAnswerPage,
     TabsPage,
     TutorialPage,
+    NotificationsPage,
     SupportPage
   ],
   imports: [
@@ -74,6 +76,7 @@ import { UserData } from '../providers/user-data';
         { component: SupportPage, name: 'SupportPage', segment: 'support' },
         { component: LoginPage, name: 'LoginPage', segment: 'login' },
         { component: AccountPage, name: 'AccountPage', segment: 'account' },
+        { component: NotificationsPage, name: 'NotificationsPage', segment: 'notifications' },
         { component: SignupPage, name: 'SignupPage', segment: 'signup' }
       ]
     }),
@@ -98,6 +101,7 @@ import { UserData } from '../providers/user-data';
     QuestionAnswerPage,
     TabsPage,
     TutorialPage,
+    NotificationsPage,
     SupportPage
   ],
   providers: [
