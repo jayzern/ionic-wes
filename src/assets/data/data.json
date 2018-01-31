@@ -1,411 +1,414 @@
 {
 
-  "schedule": [{
-    "date": "2018-02-02",
-    "groups": [{
-      "time": "Friday",
-      "sessions": [{
-        "name": "Delegate Registration",
-        "timeStart": "15:00",
-        "timeEnd": "17:45",
-        "location": "Oculus OC1.05",
-        "tracks": ["Food"],
-        "id": "1"
+    "schedule": [{
+      "date": "2018-02-02",
+      "groups": [{
+        "time": "Friday",
+        "sessions": [{
+          "name": "Delegate Registration",
+          "timeStart": "15:00",
+          "timeEnd": "17:45",
+          "location": "OC1.05",
+          "tracks": ["Miscellaneous"],
+          "id": "1"
+        }, {
+          "name": "Welcome Address",
+          "location": "OC1.05",
+          "description": "A welcome address from the Warwick Economics Summit.",
+          "speakerNames": [""],
+          "timeStart": "17:45",
+          "timeEnd": "18:00",
+          "tracks": ["Miscellaneous"],
+          "id": "2"
+        }, {
+          "name": "Tawakkol Karman",
+          "location": "OC1.05",
+          "description": "Nobel Peace Prize 2011 and Founder of Women Journalists without Chains.",
+          "speakerNames": ["Tawakkol Karman"],
+          "timeStart": "18:00",
+          "timeEnd": "19:00",
+          "tracks": ["Politics"],
+          "id": "3"
+        }, {
+          "name": "Helios Herrera",
+          "location": "OC1.05",
+          "description": "Associate Professor at the University of Warwick.",
+          "speakerNames": ["Helios Herrera"],
+          "timeStart": "19:00",
+          "timeEnd": "19:40",
+          "tracks": ["Politics"],
+          "id": "4"
+        }, {
+          "name": "Break & Refreshments",
+          "location": "Oculus Foyer",
+          "description": "Snacks and drinks.",
+          "timeStart": "19:40",
+          "timeEnd": "19:50",
+          "tracks": ["Miscellaneous"],
+          "id": "5"
+        }, {
+          "name": "Video Message",
+          "location": "OC1.05",
+          "description": "A message from a secret speaker!",
+          "speakerNames": [""],
+          "timeStart": "19:50",
+          "timeEnd": "20:05",
+          "tracks": ["VideoMessage"],
+          "id": "6"
+        }, {
+          "name": "Prof. Guy Standing",
+          "location": "OC1.05",
+          "description": "Professor of Development Studies at SOAS and Co-Founder of the Basic Income Earth Network.",
+          "speakerNames": ["Prof. Guy Standing"],
+          "timeStart": "20:05",
+          "timeEnd": "20:45",
+          "tracks": ["Politics"],
+          "id": "7"
+        }, {
+          "name": "Networking Reception",
+          "location": "Oculus Foyer",
+          "description": "Meet delegates from all over the world!",
+          "speakerNames": [""],
+          "timeStart": "20:45",
+          "timeEnd": "21:45",
+          "tracks": ["Miscellaneous"],
+          "id": "8"
+        }]
       }, {
-        "name": "Welcome Address",
-        "location": "Oculus OC1.05",
-        "description": "?",
-        "speakerNames": ["MCs"],
-        "timeStart": "17:45",
-        "timeEnd": "18:00",
-        "tracks": ["Politics"],
-        "id": "2"
+        "time": "Saturday",
+        "sessions": [{
+          "name": "Lord Mervyn King",
+          "location": "OC1.05",
+          "description": "The Governor of the Bank of England during the Financial Crisis of 2007-2008.",
+          "speakerNames": ["Lord Mervyn King"],
+          "timeStart": "10:00",
+          "timeEnd": "11:00",
+          "tracks": ["Economics"],
+          "id": "9"
+        }, {
+          "name": "Professor Wendy Carlin",
+          "location": "Oculus OC1.05",
+          "description": "Professor of Economics at University College London (UCL).",
+          "speakerNames": ["Professor Wendy Carlin"],
+          "timeStart": "11:00",
+          "timeEnd": "11:40",
+          "tracks": ["Economics"],
+          "id": "10"
+        }, {
+          "name": "Break & Networking",
+          "location": "Oculus Foyer",
+          "description": "Snack and drinks.",
+          "speakerNames": [""],
+          "timeStart": "11:40",
+          "timeEnd": "11:50",
+          "tracks": ["Miscellaneous"],
+          "id": "11"
+        }, {
+          "name": "Cecilia Skingsley",
+          "location": "OC1.05",
+          "description": "Deputy Governor at the Riksbank.",
+          "speakerNames": ["Cecilia Skingsley"],
+          "timeStart": "11:50",
+          "timeEnd": "12:30",
+          "tracks": ["Economics"],
+          "id": "12"
+        }, {
+          "name": "Mahmoud Mohieldin",
+          "location": "OC1.05",
+          "description": "World Bank Group Senior Vice President for the 2030 Development Agenda.",
+          "speakerNames": ["Mahmoud Mohieldin"],
+          "timeStart": "12:30",
+          "timeEnd": "13:10",
+          "tracks": ["Economics"],
+          "id": "13"
+        }, {
+          "name": "Lunch",
+          "location": "Piazza",
+          "description": "Lunch provided by food trucks at the Piazza.",
+          "speakerNames": [""],
+          "timeStart": "13:10",
+          "timeEnd": "14:10",
+          "tracks": ["Miscellaneous"],
+          "id": "14"
+        }, {
+          "name": "Barbara Stocking, DBE",
+          "location": "OC1.05",
+          "description": "Former CEO of Oxfam.",
+          "speakerNames": ["Barbara Stocking, DBE"],
+          "timeStart": "14:10",
+          "timeEnd": "14:50",
+          "tracks": ["Politics"],
+          "id": "15"
+        }, {
+          "name": "Prof. John B. Taylor",
+          "location": "OC1.05",
+          "description": "Senior Fellow at the Hoover Institution.",
+          "speakerNames": ["Prof. John B. Taylor"],
+          "timeStart": "14:50",
+          "timeEnd": "15:50",
+          "tracks": ["Economics"],
+          "id": "16"
+        }, {
+          "name": "Break",
+          "location": "Oculus Foyer",
+          "description": "Snacks and drinks.",
+          "speakerNames": [""],
+          "timeStart": "15:50",
+          "timeEnd": "16:00",
+          "tracks": ["Miscellaneous"],
+          "id": "17"
+        }, {
+          "name": "Seminars",
+          "location": "Oculus Building",
+          "description": "Join your favourite speaker in a small group discussion.",
+          "speakerNames": [""],
+          "timeStart": "16:00",
+          "timeEnd": "17:00",
+          "tracks": ["Seminars"],
+          "id": "18"
+        }, {
+          "name": "Video Message",
+          "location": "OC1.05",
+          "description": "A message from a secret speaker.",
+          "speakerNames": [""],
+          "timeStart": "17:00",
+          "timeEnd": "17:10",
+          "tracks": ["VideoMessage"],
+          "id": "19"
+        }, {
+          "name": "Panel Debate",
+          "location": "OC1.05",
+          "description": "The Future of Work.",
+          "speakerNames": ["Mark Purdy and Matias Cortes"],
+          "timeStart": "17:10",
+          "timeEnd": "18:10",
+          "tracks": ["PanelDebate"],
+          "id": "20"
+        }, {
+          "name": "End of Day",
+          "location": "",
+          "description": "End of the summit for the day. Join us for an amazing night at the Summit Ball!",
+          "speakerNames": [""],
+          "timeStart": "18:10",
+          "timeEnd": "",
+          "tracks": ["Miscellaneous"],
+          "id": "21"
+        }, {
+          "name": "Drinks Reception",
+          "location": "Chancellor's Suite, Rootes Building",
+          "description": "Great opprtunity to meet speakers, other delegates and a great start to the Ball.",
+          "speakerNames": [""],
+          "timeStart": "19:30",
+          "timeEnd": "20:30",
+          "tracks": ["SummitBall"],
+          "id": "22"
+        }, {
+          "name": "Summit Ball",
+          "location": "Chancellor's Suite, Rootes Building",
+          "description": "The much anticipated Rainforest Ball.",
+          "speakerNames": [""],
+          "timeStart": "20:30",
+          "timeEnd": "02:00",
+          "tracks": ["SummitBall"],
+          "id": "23"
+        }]
       }, {
-        "name": "Tawakkol Karman",
-        "location": "Oculus OC1.05",
-        "description": "Nobel Peace Prize 2011 and Founder of Women Journalists without Chains.",
-        "speakerNames": ["Tawakkol Karman"],
-        "timeStart": "18:00",
-        "timeEnd": "19:00",
-        "tracks": ["Ionic"],
-        "id": "3"
-      }, {
-        "name": "Helios Herrera",
-        "location": "OC1.05",
-        "description": "Associate Professor at the University of Warwick.",
-        "speakerNames": ["Helios Herrera"],
-        "timeStart": "19:00",
-        "timeEnd": "19:40",
-        "tracks": ["Workshop"],
-        "id": "4"
-      }, {
-        "name": "Break & Refreshments",
-        "location": "Oculus Foyer",
-        "description": "yoooo free snacks",
-        "timeStart": "19:40",
-        "timeEnd": "19:50",
-        "tracks": ["Food"],
-        "id": "5"
-      }, {
-        "name": "Video Message",
-        "location": "OC1.05",
-        "description": "a message",
-        "speakerNames": ["Dunno"],
-        "timeStart": "19:50",
-        "timeEnd": "20:05",
-        "tracks": ["Communication"],
-        "id": "6"
-      }, {
-        "name": "Prof. Guy Standing",
-        "location": "OC1.05",
-        "description": "Professor of Development Studies at SOAS and Co-Founder of the Basic Income Earth Network.",
-        "speakerNames": ["Prof. Guy Standing"],
-        "timeStart": "20:05",
-        "timeEnd": "20:45",
-        "tracks": ["Services"],
-        "id": "7"
-      }, {
-        "name": "Networking Reception",
-        "location": "Oculus Foyer",
-        "description": "newtorking",
-        "speakerNames": ["Dunno"],
-        "timeStart": "20:45",
-        "timeEnd": "21:45",
-        "tracks": ["Communication"],
-        "id": "8"
+        "time": "Sunday",
+        "sessions": [{
+          "name": "Arun Advani",
+          "timeStart": "11:00",
+          "timeEnd": "11:40",
+          "location": "OC1.05",
+          "description": "Assistant Professor at the University of Warwick.",
+          "tracks": ["Economics"],
+          "id": "24"
+        }, {
+          "name": "Mario Monti",
+          "location": "OC1.05",
+          "description": "Prime Minister of Italy from 2011 to 2013.",
+          "speakerNames": ["Mario Monti"],
+          "timeStart": "11:40",
+          "timeEnd": "12:40",
+          "tracks": ["Politics"],
+          "id": "25"
+        }, {
+          "name": "Lunch",
+          "location": "Piazza",
+          "description": "Lunch provided by food trucks at the Piazza.",
+          "speakerNames": [""],
+          "timeStart": "12:40",
+          "timeEnd": "13:40",
+          "tracks": ["Miscellaneous"],
+          "id": "26"
+        }, {
+          "name": "Laurence Tubiana",
+          "location": "OC1.05",
+          "description": "CEO of the European Climate Foundation.",
+          "speakerNames": ["Laurence Tubiana"],
+          "timeStart": "13:40",
+          "timeEnd": "14:40",
+          "tracks": ["Politics"],
+          "id": "27"
+        }, {
+          "name": "Video Message",
+          "location": "OC1.05",
+          "description": "A message from a secret speaker!",
+          "timeStart": "14:40",
+          "timeEnd": "14:50",
+          "tracks": ["VideoMessage"],
+          "id": "28"
+        }, {
+          "name": "Dr. Ian Cross",
+          "location": "OC1.05",
+          "description": "Doctor at Médecins Sans Frontières.",
+          "speakerNames": ["Dr. Ian Cross"],
+          "timeStart": "14:50",
+          "timeEnd": "15:30",
+          "tracks": ["Politics"],
+          "id": "29"
+        }, {
+          "name": "Closing Address",
+          "location": "OC1.05",
+          "description": "Closing address from the Warwick Economics Summit.",
+          "speakerNames": [""],
+          "timeStart": "15:30",
+          "timeEnd": "15:45",
+          "tracks": ["Miscellaneous"],
+          "id": "30"
+        }]
       }]
+    }],
+
+
+
+    "speakers": [{
+      "name": "Joseph Muscat",
+      "profilePic": "assets/img/speakers/joseph_muscat.jpg",
+      "twitter": "ionicframework",
+      "about": "Prime Minister of Malta. Dr. Muscat is the leader of Malta’s labour party and is serving his second term as Prime Minister, after his re-election in 2015. He was firstly elected Prime Minister in 2013, and at 39 years old was one of the youngest world leaders, and the recipient the Outstanding Young Person of the Year. Dr. Muscat has left a strong mark both domestically and internationally. He recently sat at the very heart of EU policy-making, serving a term as President of the European Council in 2017. Malta’s presidency had several pressing issues on the agenda, including the migration crisis and the fight against terrorism. Domestically, his government has notably made considerable gains in civil rights. Malta has introduced same-sex marriage in July 2017, just one of several policies that led the UN to define the country ‘Gold Standard’ of LGBT rights. Dr. Muscat graduated with Honours from the University of Malta in Public Policy and later received a Master of European Studies. He also holds a Ph.D. in Management Research from the University of Bristol. Before his political career, Dr. Muscat worked as a journalist." ,
+      "location": "Oculus Room OC1.05",
+      "email": "JMuscat@eWES2018.com",
+      "phone": "+1-541-754-3010",
+      "id": "1"
     }, {
-      "time": "Saturday",
-      "sessions": [{
-        "name": "Lord Mervyn King",
-        "timeStart": "10:00",
-        "timeEnd": "11:00",
-        "location": "Oculus OC1.05",
-        "tracks": ["Food"],
-        "id": "9"
-      }, {
-        "name": "Professor Wendy Carlin",
-        "location": "Oculus OC1.05",
-        "description": "Professor of Economics at University College London (UCL).",
-        "speakerNames": ["Professor Wendy Carlin"],
-        "timeStart": "11:00",
-        "timeEnd": "11:40",
-        "tracks": ["Politics"],
-        "id": "10"
-      }, {
-        "name": "Break & Networking",
-        "location": "Oculus Foyer",
-        "description": ".",
-        "speakerNames": ["wat?"],
-        "timeStart": "11:40",
-        "timeEnd": "11:50",
-        "tracks": ["Ionic"],
-        "id": "11"
-      }, {
-        "name": "Cecilia Skingsley",
-        "location": "OC1.05",
-        "description": "Deputy Governor at the Riksbank.",
-        "speakerNames": ["Cecilia Skingsley"],
-        "timeStart": "11:50",
-        "timeEnd": "12:30",
-        "tracks": ["Workshop"],
-        "id": "12"
-      }, {
-        "name": "Mahmoud Mohieldin",
-        "location": "OC1.05",
-        "description": "World Bank Group Senior Vice President for the 2030 Development Agenda",
-        "speakerNames": ["Mahmoud Mohieldin"],
-        "timeStart": "12:30",
-        "timeEnd": "13:10",
-        "tracks": ["Food"],
-        "id": "13"
-      }, {
-        "name": "Lunch",
-        "location": "Piazza",
-        "description": "Mobile devices and browsers are now advanced enough that developers can build native-quality mobile apps using open web technologies like HTML5, Javascript, and CSS. In this talk, we’ll provide background on why and how we created Ionic, the design decisions made as we integrated Ionic with Angular, and the performance considerations for mobile platforms that our team had to overcome. We’ll also review new and upcoming Ionic features, and talk about the hidden powers and benefits of combining mobile app development and Angular.",
-        "speakerNames": ["Vegan Grindhouse"],
-        "timeStart": "13:10",
-        "timeEnd": "14:10",
-        "tracks": ["Communication"],
-        "id": "14"
-      }, {
-        "name": "Barbara Stocking, DBE",
-        "location": "OC1.05",
-        "description": "Former CEO of Oxfam.",
-        "speakerNames": ["Barbara Stocking, DBE"],
-        "timeStart": "14:10",
-        "timeEnd": "14:50",
-        "tracks": ["Services"],
-        "id": "15"
-      }, {
-        "name": "Prof. John B. Taylor",
-        "location": "OC1.05",
-        "description": "Senior Fellow at the Hoover Institution.",
-        "speakerNames": ["Prof. John B. Taylor"],
-        "timeStart": "14:50",
-        "timeEnd": "15:50",
-        "tracks": ["Services"],
-        "id": "16"
-      }, {
-        "name": "Break",
-        "location": "Oculus Foyer",
-        "description": "Mobile devices and browsers are now advanced enough that developers can build native-quality mobile apps using open web technologies like HTML5, Javascript, and CSS. In this talk, we’ll provide background on why and how we created Ionic, the design decisions made as we integrated Ionic with Angular, and the performance considerations for mobile platforms that our team had to overcome. We’ll also review new and upcoming Ionic features, and talk about the hidden powers and benefits of combining mobile app development and Angular.",
-        "speakerNames": ["none"],
-        "timeStart": "15:50",
-        "timeEnd": "16:00",
-        "tracks": ["Services"],
-        "id": "17"
-      }, {
-        "name": "Seminars",
-        "location": "Oculus Building",
-        "description": "Mobile devices and browsers are now advanced enough that developers can build native-quality mobile apps using open web technologies like HTML5, Javascript, and CSS. In this talk, we’ll provide background on why and how we created Ionic, the design decisions made as we integrated Ionic with Angular, and the performance considerations for mobile platforms that our team had to overcome. We’ll also review new and upcoming Ionic features, and talk about the hidden powers and benefits of combining mobile app development and Angular.",
-        "speakerNames": ["speakers"],
-        "timeStart": "16:00",
-        "timeEnd": "17:00",
-        "tracks": ["Services"],
-        "id": "18"
-      }, {
-        "name": "Video Message",
-        "location": "OC1.05",
-        "description": "Mobile devices and browsers are now advanced enough that developers can build native-quality mobile apps using open web technologies like HTML5, Javascript, and CSS. In this talk, we’ll provide background on why and how we created Ionic, the design decisions made as we integrated Ionic with Angular, and the performance considerations for mobile platforms that our team had to overcome. We’ll also review new and upcoming Ionic features, and talk about the hidden powers and benefits of combining mobile app development and Angular.",
-        "speakerNames": ["dunno"],
-        "timeStart": "17:00",
-        "timeEnd": "17:10",
-        "tracks": ["Services"],
-        "id": "19"
-      }, {
-        "name": "Panel Debate",
-        "location": "OC1.05",
-        "description": "The Future of Work.",
-        "speakerNames": ["Panel Debate"],
-        "timeStart": "17:10",
-        "timeEnd": "18:10",
-        "tracks": ["Services"],
-        "id": "20"
-      }, {
-        "name": "End of Day",
-        "location": "home",
-        "description": "Mobile devices and browsers are now advanced enough that developers can build native-quality mobile apps using open web technologies like HTML5, Javascript, and CSS. In this talk, we’ll provide background on why and how we created Ionic, the design decisions made as we integrated Ionic with Angular, and the performance considerations for mobile platforms that our team had to overcome. We’ll also review new and upcoming Ionic features, and talk about the hidden powers and benefits of combining mobile app development and Angular.",
-        "speakerNames": ["none"],
-        "timeStart": "18:10",
-        "timeEnd": "",
-        "tracks": ["Services"],
-        "id": "21"
-      }, {
-        "name": "Drinks Reception",
-        "location": "Chancellor's Suite, Rootes Building",
-        "description": "Mobile devices and browsers are now advanced enough that developers can build native-quality mobile apps using open web technologies like HTML5, Javascript, and CSS. In this talk, we’ll provide background on why and how we created Ionic, the design decisions made as we integrated Ionic with Angular, and the performance considerations for mobile platforms that our team had to overcome. We’ll also review new and upcoming Ionic features, and talk about the hidden powers and benefits of combining mobile app development and Angular.",
-        "speakerNames": ["Speaker 5"],
-        "timeStart": "19:30",
-        "timeEnd": "20:30",
-        "tracks": ["Services"],
-        "id": "22"
-      }, {
-        "name": "Summit Ball",
-        "location": "Chancellor's Suite, Rootes Building",
-        "description": "Mobile devices and browsers are now advanced enough that developers can build native-quality mobile apps using open web technologies like HTML5, Javascript, and CSS. In this talk, we’ll provide background on why and how we created Ionic, the design decisions made as we integrated Ionic with Angular, and the performance considerations for mobile platforms that our team had to overcome. We’ll also review new and upcoming Ionic features, and talk about the hidden powers and benefits of combining mobile app development and Angular.",
-        "speakerNames": ["Speaker 5"],
-        "timeStart": "20:30",
-        "timeEnd": "02:00",
-        "tracks": ["Services"],
-        "id": "23"
-      }]
+      "name": "Mervyn King",
+      "profilePic": "assets/img/speakers/mervyn_king.jpg",
+      "twitter": "ionicframework",
+      "about": "Baron King of Lothbury, the Governor of the Bank of England during the Financial Crisis of 2007-2008 and one of the most important central bankers of the 21st century. Following a successful career in academia, including teaching at MIT and Harvard, Lord King went on to join the Bank of England in 1991 as Chief Economist. He would then lead it from 2003-2013 as Governor and oversaw the Bank during the financial crisis and the Great Recession. Lord King is also a prominent author, most famously known for ‘The End of Alchemy’, one of the most relevant books to come out of the financial crisis. After leaving the Bank in 2013, he was appointed a life peer and entered the House of Lords as a crossbencher in July 2013. Since then he has retaken his career in academia as a Professor at the Stern School of Business in New York.",
+      "location": "Oculus Room OC1.05",
+      "email": "MKing@example.com",
+      "phone": "+1-541-754-3010",
+      "id": "2"
     }, {
-      "time": "Sunday",
-      "sessions": [{
-        "name": "Arun Advani",
-        "timeStart": "11:00",
-        "timeEnd": "11:40",
-        "location": "Oculus OC1.05",
-        "description": "Assistant Professor at the University of Warwick.",
-        "tracks": ["Food"],
-        "id": "24"
-      }, {
-        "name": "Mario Monti",
-        "location": "Oculus OC1.05",
-        "description": "Prime Minister of Italy from 2011 to 2013.",
-        "speakerNames": ["Mario Monti"],
-        "timeStart": "11:40",
-        "timeEnd": "12:40",
-        "tracks": ["Politics"],
-        "id": "25"
-      }, {
-        "name": "Lunch",
-        "location": "Piazza",
-        "description": "Mobile devices and browsers are now advanced enough that developers can build native-quality mobile apps using open web technologies like HTML5, Javascript, and CSS. In this talk, we’ll provide background on why and how we created Ionic, the design decisions made as we integrated Ionic with Angular, and the performance considerations for mobile platforms that our team had to overcome. We’ll also review new and upcoming Ionic features, and talk about the hidden powers and benefits of combining mobile app development and Angular.",
-        "speakerNames": ["wat?"],
-        "timeStart": "12:40",
-        "timeEnd": "13:40",
-        "tracks": ["Ionic"],
-        "id": "26"
-      }, {
-        "name": "Laurence Tubiana",
-        "location": "OC1.05",
-        "description": "CEO of the European Climate Foundation.",
-        "speakerNames": ["Laurence Tubiana"],
-        "timeStart": "13:40",
-        "timeEnd": "14:40",
-        "tracks": ["Workshop"],
-        "id": "27"
-      }, {
-        "name": "Video Message",
-        "location": "OC1.05",
-        "description": "hmm",
-        "timeStart": "14:40",
-        "timeEnd": "14:50",
-        "tracks": ["Food"],
-        "id": "28"
-      }, {
-        "name": "Dr. Ian Cross",
-        "location": "OC1.05",
-        "description": "Doctor at Médecins Sans Frontières.",
-        "speakerNames": ["Dr. Ian Cross"],
-        "timeStart": "14:50",
-        "timeEnd": "15:30",
-        "tracks": ["Communication"],
-        "id": "29"
-      }, {
-        "name": "Closing Address",
-        "location": "OC1.05",
-        "description": "Mobile devices and browsers are now advanced enough that developers can build native-quality mobile apps using open web technologies like HTML5, Javascript, and CSS. In this talk, we’ll provide background on why and how we created Ionic, the design decisions made as we integrated Ionic with Angular, and the performance considerations for mobile platforms that our team had to overcome. We’ll also review new and upcoming Ionic features, and talk about the hidden powers and benefits of combining mobile app development and Angular.",
-        "speakerNames": ["MCs"],
-        "timeStart": "15:30",
-        "timeEnd": "15:45",
-        "tracks": ["Services"],
-        "id": "30"
-      }]
-    }]
-  }],
+      "name": "John Taylor",
+      "profilePic": "assets/img/speakers/john_taylor.jpg",
+      "twitter": "ionicframework",
+      "about": "Professor Taylor is the founding father of the paradigm-shifting Taylor Rule used by almost all Central Banks in the world. During his distinguished career, Prof. Taylor has amongst other key roles served on the President’s Council of Economic Advisers, held the position of US Treasury Under Secretary for International Affairs and currently sits on the G20 Eminent Persons Group on Global Financial Governance. During his time at the US Treasury, Taylor was most notably responsible for the oversight of the IMF and the World Bank along with coordinating policy with the G-7 and G-20. His academic advisory and pioneering contributions have been universally acclaimed. Prof. Taylor has been credited by two Former Chairmen of the Federal Reserve, Ben Bernanke for its “influence on monetary theory and policy” and Chair Janet Yellen for “affecting the way policymakers and economists analyze the economy and approach monetary policy”. In 2017, Taylor was considered, alongside Jerome H. Powell, by President Trump as one of the nominees to succeed Janet Yellen as Chair of the Federal Reserve.",
+      "location": "Oculus Room OC1.05",
+      "email": "donald@example.com",
+      "phone": "+1-541-754-3010",
+      "id": "3"
+    }, {
+      "name": "Mario Monti",
+      "profilePic": "assets/img/speakers/mario_monti.jpg",
+      "twitter": "ionicframework",
+      "about": "Mario Monti is the President of Bocconi University. In 2011, Monti was appointed Prime Minister of Italy as a technocratic government was formed to rescue the country from financial ruin. He then proceeded to found his own party in 2013, Civic Choice, which was the fourth largest in that year’s election. He holds a degree in Economics from Bocconi University and pursued his graduate studies at Yale University under the supervision of Nobel Prize Laureate James Tobin. He went back to Italy to teach Economics at the University of Trento, followed by the University of Turin to then return as Rector at his alma mater, Bocconi University. His training as an economist led to his appointment as European Commissioner in charge of the Internal Market, Financial Services and Tax Policy in 1994, to then be named European Commissioner in charge of Competition in 1999. It is in the European Commission that he earned the nickname “Super Mario”, and for his work that he was honoured as Senator for Life by Italian President Giorgio Napolitano.",
+      "location": "Oculus Room OC1.05",
+      "email": "eva@example.com",
+      "phone": "+1-541-754-3010",
+      "id": "4"
+    }, {
+      "name": "Cecilia Skingsley",
+      "profilePic": "assets/img/speakers/cecilia_skingsley.jpg",
+      "twitter": "ionicframework",
+      "about": "Cecilia Skingsley is the Deputy Governor of the Sveriges Riksbank. The topic of her speech will revolve around Sweden’s transition towards a cashless society and the visionary project of introducing the first Digital Central Bank currency in the world, the E-Krona. Cecilia Skingsley took up the post of Deputy Governor of the Swedish Riksbank in May 2013, with a term of office of six years. She represents the Riksbank on the Committee on the Global Financial System (CGFS) and on the Euro Retail Payments Board (ERPB). She is also the Governor of the Riksbank’s alternative on the Board of Directors of the BIS and chairs the retail payments council. In October 2016, Ms Skingsley was appointed to co-chair the World Economic Forum’s working group Global Future Council on the Future of Financial and Monetary Systems. Ms Skingsley holds a BSc in Economics and Political Science from Stockholm University and a financial analyst diploma. She was previously Chief Economist and Head of Analysis at Swedbank during the 2007-2008 Financial Crisis and has also worked at Dagens Industri, ABN Amro Bank, and the Ministry of Finance. You may find the Sveriges Riksbank’s First Interim Report on the E-Krona under this link: http://www.riksbank.se/Documents/Rapporter/E-krona/2017/rapport_ekrona_170920_eng.pdf",
+      "location": "Oculus Room OC1.05",
+      "email": "ellie@example.com",
+      "phone": "+1-541-754-3010",
+      "id": "5"
+    }, {
+      "name": "Tawakkol Karman",
+      "profilePic": "assets/img/speakers/tawakkol_karman.jpg",
+      "twitter": "ionicframework",
+      "about": "Journalist and human rights activist Tawakkol Karman is the first and only Arab woman to be awarded the Nobel Peace Prize. Encountering first hand restrictions and threats from the Yemeni government blocking her journalistic endeavours, Karman co-founded Women Journalist Without Chains in 2005 to promote women’s rights, civil rights, and freedom of speech. She organised marches, staged sit-ins and mounted media campaigns against the regime, ultimately effectuating the removal of Ali Abdullah Saleh as president in 2011. Since then, Karman has continued her campaign for free and open press and continues to be a vocal voice on the struggle for the expansion of democratic rights in the Middle East.",
+      "location": "Oculus Room OC1.05",
+      "email": "gino@example.com",
+      "phone": "+1-541-754-3010",
+      "id": "6"
+    }, {
+      "name": "Laurence Tubiana",
+      "profilePic": "assets/img/speakers/laurence_tubiana.jpg",
+      "twitter": "ionicframework",
+      "about": "Laurence Tubiana is the CEO of the European Climate Foundation and the key architect of the landmark COP21 Paris Agreement. After obtaining her doctorate in economics at Sciences Po, Laurence Tubiana started her career as Research Director for the French Institute for Agricultural Research. She went on to found and lead Solagral, an NGO working on food security and global environment, as well as serve as Senior Adviser on the Environment to Former French Prime Minister Lionel Jospin to help with the negotiations for the Kyoto Protocol. She founded and until recently chaired the Paris-based Institute of Sustainable Development and International Relations (IDDRI) and was appointed High Level Champion for climate action following her integral role during and in preparation of the momentous 2015 COP21 United Nations Climate Change Conference. Laurence Tubiana has held numerous academic positions, including as a Professor and Scientific Director for the International Development and Environmental Studies Master degrees at Sciences Po, and has been a member of boards and scientific committees such as the Chines Committee on the Environment and International Development.",
+      "location": "Oculus Room OC1.05",
+      "email": "isabella@example.com",
+      "phone": "+1-541-754-3010",
+      "id": "7"
+    }, {
+      "name": "Barbara Stocking",
+      "profilePic": "assets/img/speakers/barbara_stocking.jpg",
+      "twitter": "ionicframework",
+      "about": "Dame Barbara Stocking is the former CEO of Oxfam. The title of her speech will be “Changing the world – needed now even more than ever”, something DBE Stocking has been doing throughout her entire career. After graduating from Cambridge, DBE Stocking had a successful career working for the World Health Organisation in West Africa and in the NHS for more than 10 years. Subsequently, she was appointed as the Chief Executive of Oxfam in 2001, which she run steadily, becoming a key figure in some of the world’s worst humanitarian crisis. Under her mandate, Oxfam was a crucial contributor in tackling the conflicts in Afghanistan and Iraq as well as the aftermath of natural disasters such as the South-Asian tsunami and the Pakistan earthquake. After running Oxfam for 12 years, she stepped down in 2013 and became president of the Murray Edwards College in Cambridge.",
+      "location": "Oculus Room OC1.05",
+      "email": "karl@example.com",
+      "phone": "+1-541-754-3010",
+      "id": "8"
+    }, {
+      "name": "Mahmoud Mohieldin",
+      "profilePic": "assets/img/speakers/mahmoud_mohieldin.jpg",
+      "twitter": "ionicframework",
+      "about": "Mahmoud Mohieldin is the World Bank Group Senior Vice President for the 2030 Development Agenda. After obtaining his doctorate at Warwick, where he co-founded the Economics Society, Dr.Mohieldin proceeded to make substantial contributions to the development of Egypt’s economy, holding senior positions at various government ministries and in the private sector. Most notably, Dr.Mohieldin served as Minister of Investment, where he led a comprehensive reform program to modernise and liberalise the economy - earning Egypt the distinction as Top Reformer in the Doing Business Report for four years. Dr.Mohieldin also served on multiple boards of directors, including the Central Bank of Egypt, and was selected a Young Global Leader of the World Economic Forum. Away from the public and private sector, he was Professor of Economics and Finance at Cairo University, is an honorary professor at Durham University and member of the Advisory Board of the Durham Business School. He has authored numerous publications and articles in leading journals in the fields of international finance, economics, and development, both in English and Arabic.",
+      "location": "Oculus Room OC1.05",
+      "email": "lionel@example.com",
+      "phone": "+1-541-754-3010",
+      "id": "9"
+    }, {
+      "name": "Wendy Carlin",
+      "profilePic": "assets/img/speakers/wendy_carlin.jpg",
+      "twitter": "ionicframework",
+      "about": "Wendy Carlin is the Professor of Economics at University College London. Prof. Carlin has undertaken research focusing primarily on macroeconomics, institutions and economic performance, and the economics of transition; with several works looking into macroeconomic policy and integrating the financial system in the macroeconomic model. Alongside her academic role, Professor Carlin is a research fellow at the Centre for Economic Policy Research and on the expert advisory panel of the Office for Budget Responsibility. She is also leading the international CORE project to revolutionise the way Economics is taught at university by providing a more problem-motivated and interactive way to learn economics whilst also bringing recent developments into the learning environment. The eBook the project has so far produced is used by highly respected institutions all over the world including Sciences-Po, UCL and the Toulouse School of Economics. The project aims to take what is exciting about being an economist today, and bringing that excitement to the classroom.",
+      "location": "Oculus OC1.05",
+      "email": "molly@example.com",
+      "phone": "+1-541-754-3010",
+      "id": "10"
+    }, {
+      "name": "Guy Standing",
+      "profilePic": "assets/img/speakers/guy_standing.jpg",
+      "twitter": "ionicframework",
+      "about": "Guy Standing is the founder member and honorary co-president of the Basic Income Earth Network (BIEN). After obtaining a doctorate in Economics from the University of Cambridge and a master’s degree in Industrial Relations from the University of Illinois, Guy Standing held numerous senior positions at the ILO, including Director of the Labour Market Policies Branch, Director of the Central and Eastern European Team and Director of the Socio-Economic Security Programme. More recently Professor Standing has become a founder member and honorary co-president of the Basic Income Earth Network (BIEN), an international non-governmental organisation that brings together economists, philosophers and other social scientist from over 50 countries and promotes basic income. He has written and edited books on unemployment, labour market flexibility, structural adjustment policies, and social protection policy. His most recent titles include „Basic Income: And How We Can Make It Happen” and „The Corruption of Capitalism: Why Rentiers Thrive and Work Does Not Pay.”",
+      "location": "Oculus OC1.05",
+      "email": "paul@example.com",
+      "phone": "+1-541-754-3010",
+      "id": "11"
+    }, {
+      "name": "Arun Advani",
+      "profilePic": "assets/img/speakers/arun_advani.jpg",
+      "twitter": "ionicframework",
+      "about": "Arun Advani is an Assistant Professor at the University of Warwick. Dr. Advani’s career comprises positions as Deputy Director and Research Associate at CAGE and Research Fellow at CRETA as well as at the Institute for Fiscal Studies. Dr. Advani’s research primarily revolves around the topical fields of development economics and public policy, where his innovative approach greatly contributes to the understanding of issues in development economics. His recently published study `Insurance Networks and Endogenous Poverty Traps' provides a novel explanation for the lack of profitable investments in poor households. Featured on the World Bank Development Impact Blog and as the top story in the Weekly Newsletter from the Financial Access Initiative, the paper highlights the ways to improve the cost-effectiveness of the capital transfer programs. As a Research Fellow at the IFS, Dr. Advani also co-authored a numerous policy reports and comments on environmental taxation in the UK, as well as worked on issues of environmental economics.",
+      "location": "Everywhere",
+      "email": "rachel@example.com",
+      "phone": "+1-541-754-3010",
+      "id": "12"
+    }, {
+      "name": "Helios Herrera",
+      "profilePic": "assets/img/speakers/helios_herrera.jpg",
+      "twitter": "ionicframework",
+      "about": "Helios Herrera is an Associate Professor of Economics at the University of Warwick. Prof Herrera specialises in Political Economy, Applied Theory, Macroeconomics, and Experimental and Financial Economics. He is the coordinator of the Political Economy and Public Economics (PEPE) Warwick Research Group. His research interests involve voter turnout, democratic systems of government, as well as populism. His talk will indeed focus on a very controversial topic he is currently researching: economic populism, which has come back strongly in the western world as the current economic insecurity fuelled demand for populist policies. Before coming to Warwick, Prof Herrera served various academic posts, including Associate Professor at HEC Montreal and Lecturer at Columbia University’s School of International and Public Affairs. He earned his undergraduate degree in Physics from the University of Pavia, and his PhD in Economics from New York University (NYU). Here is an article from the Economist, “The power of populists”, which features Prof. Herrera’s research: https://www.economist.com/…/21725298-when-elites-appear-ine…",
+      "location": "Everywhere",
+      "email": "ted@example.com",
+      "phone": "+1-541-754-3010",
+      "id": "13"
+    }, {
+      "name": "Ian Cross",
+      "profilePic": "assets/img/speakers/ian_cross.jpg",
+      "twitter": "ionicframework",
+      "about": "Ian Cross is a medical doctor with Doctors Without Borders (MSF). With MSF Dr. Cross has worked at the very centre of what the UN describes as “the world’s fastest growing refugee crisis” – a crisis which has since August 2017 displaced near 600,000 Rohingya refugees from Myanmar who have crossed the border to Bangladesh to flee from violence and persecution. Having treated refugees and seen the many tragedies first hand Dr. Cross is uniquely positioned to offer insights into the abhorrent human rights crisis and MSF’s immense contribution to the affected minorities. Founded in 1971, MFS has continually helped tens of millions of people in more than 80 countries by providing medical care where it is most needed. MSF’s remarkable action in response to conflicts, epidemics and other catastrophes is rightfully reflected in its awarding of the Nobel Peace Prize in 1999 as well as the Indira Gandhi Prize in 1996. Since its establishment, the organization is not only committed to saving lives, but also exposing injustice, as ‘silence can kill’; such message is more than apposite today, and Dr. Cross is here promoting it in this year’s summit.",
+      "location": "Everywhere",
+      "email": "ted@example.com",
+      "phone": "+1-541-754-3010",
+      "id": "13"
+    }],
 
-
-
-  "speakers": [{
-    "name": "Joseph Muscat",
-    "profilePic": "assets/img/speakers/bear.jpg",
-    "twitter": "ionicframework",
-    "about": "Prime Minister of Malta. Dr. Muscat is the leader of Malta’s labour party and is serving his second term as Prime Minister, after his re-election in 2015. He was firstly elected Prime Minister in 2013, and at 39 years old was one of the youngest world leaders, and the recipient the Outstanding Young Person of the Year. Dr. Muscat has left a strong mark both domestically and internationally. He recently sat at the very heart of EU policy-making, serving a term as President of the European Council in 2017. Malta’s presidency had several pressing issues on the agenda, including the migration crisis and the fight against terrorism. Domestically, his government has notably made considerable gains in civil rights. Malta has introduced same-sex marriage in July 2017, just one of several policies that led the UN to define the country ‘Gold Standard’ of LGBT rights. Dr. Muscat graduated with Honours from the University of Malta in Public Policy and later received a Master of European Studies. He also holds a Ph.D. in Management Research from the University of Bristol. Before his political career, Dr. Muscat worked as a journalist." ,
-    "location": "Oculus Room OC1.05",
-    "email": "JMuscat@eWES2018.com",
-    "phone": "+1-541-754-3010",
-    "id": "1"
-  }, {
-    "name": "Mervyn King",
-    "profilePic": "assets/img/speakers/cheetah.jpg",
-    "twitter": "ionicframework",
-    "about": "Baron King of Lothbury, the Governor of the Bank of England during the Financial Crisis of 2007-2008 and one of the most important central bankers of the 21st century. Following a successful career in academia, including teaching at MIT and Harvard, Lord King went on to join the Bank of England in 1991 as Chief Economist. He would then lead it from 2003-2013 as Governor and oversaw the Bank during the financial crisis and the Great Recession. Lord King is also a prominent author, most famously known for ‘The End of Alchemy’, one of the most relevant books to come out of the financial crisis. After leaving the Bank in 2013, he was appointed a life peer and entered the House of Lords as a crossbencher in July 2013. Since then he has retaken his career in academia as a Professor at the Stern School of Business in New York.",
-    "location": "Oculus Room OC1.05",
-    "email": "MKing@example.com",
-    "phone": "+1-541-754-3010",
-    "id": "2"
-  }, {
-    "name": "John Taylor",
-    "profilePic": "assets/img/speakers/duck.jpg",
-    "twitter": "ionicframework",
-    "about": "Professor Taylor is the founding father of the paradigm-shifting Taylor Rule used by almost all Central Banks in the world. During his distinguished career, Prof. Taylor has amongst other key roles served on the President’s Council of Economic Advisers, held the position of US Treasury Under Secretary for International Affairs and currently sits on the G20 Eminent Persons Group on Global Financial Governance. During his time at the US Treasury, Taylor was most notably responsible for the oversight of the IMF and the World Bank along with coordinating policy with the G-7 and G-20. His academic advisory and pioneering contributions have been universally acclaimed. Prof. Taylor has been credited by two Former Chairmen of the Federal Reserve, Ben Bernanke for its “influence on monetary theory and policy” and Chair Janet Yellen for “affecting the way policymakers and economists analyze the economy and approach monetary policy”. In 2017, Taylor was considered, alongside Jerome H. Powell, by President Trump as one of the nominees to succeed Janet Yellen as Chair of the Federal Reserve.",
-    "location": "Oculus Room OC1.05",
-    "email": "donald@example.com",
-    "phone": "+1-541-754-3010",
-    "id": "3"
-  }, {
-    "name": "Mario Monti",
-    "profilePic": "assets/img/speakers/eagle.jpg",
-    "twitter": "ionicframework",
-    "about": "Mario Monti is the President of Bocconi University. In 2011, Monti was appointed Prime Minister of Italy as a technocratic government was formed to rescue the country from financial ruin. He then proceeded to found his own party in 2013, Civic Choice, which was the fourth largest in that year’s election. He holds a degree in Economics from Bocconi University and pursued his graduate studies at Yale University under the supervision of Nobel Prize Laureate James Tobin. He went back to Italy to teach Economics at the University of Trento, followed by the University of Turin to then return as Rector at his alma mater, Bocconi University. His training as an economist led to his appointment as European Commissioner in charge of the Internal Market, Financial Services and Tax Policy in 1994, to then be named European Commissioner in charge of Competition in 1999. It is in the European Commission that he earned the nickname “Super Mario”, and for his work that he was honoured as Senator for Life by Italian President Giorgio Napolitano.",
-    "location": "Oculus Room OC1.05",
-    "email": "eva@example.com",
-    "phone": "+1-541-754-3010",
-    "id": "4"
-  }, {
-    "name": "Cecilia Skingsley",
-    "profilePic": "assets/img/speakers/elephant.jpg",
-    "twitter": "ionicframework",
-    "about": "Cecilia Skingsley is the Deputy Governor of the Sveriges Riksbank. The topic of her speech will revolve around Sweden’s transition towards a cashless society and the visionary project of introducing the first Digital Central Bank currency in the world, the E-Krona. Cecilia Skingsley took up the post of Deputy Governor of the Swedish Riksbank in May 2013, with a term of office of six years. She represents the Riksbank on the Committee on the Global Financial System (CGFS) and on the Euro Retail Payments Board (ERPB). She is also the Governor of the Riksbank’s alternative on the Board of Directors of the BIS and chairs the retail payments council. In October 2016, Ms Skingsley was appointed to co-chair the World Economic Forum’s working group Global Future Council on the Future of Financial and Monetary Systems. Ms Skingsley holds a BSc in Economics and Political Science from Stockholm University and a financial analyst diploma. She was previously Chief Economist and Head of Analysis at Swedbank during the 2007-2008 Financial Crisis and has also worked at Dagens Industri, ABN Amro Bank, and the Ministry of Finance. You may find the Sveriges Riksbank’s First Interim Report on the E-Krona under this link: http://www.riksbank.se/Documents/Rapporter/E-krona/2017/rapport_ekrona_170920_eng.pdf",
-    "location": "Oculus Room OC1.05",
-    "email": "ellie@example.com",
-    "phone": "+1-541-754-3010",
-    "id": "5"
-  }, {
-    "name": "Tawakkol Karman",
-    "profilePic": "assets/img/speakers/giraffe.jpg",
-    "twitter": "ionicframework",
-    "about": "Journalist and human rights activist Tawakkol Karman is the first and only Arab woman to be awarded the Nobel Peace Prize. Encountering first hand restrictions and threats from the Yemeni government blocking her journalistic endeavours, Karman co-founded Women Journalist Without Chains in 2005 to promote women’s rights, civil rights, and freedom of speech. She organised marches, staged sit-ins and mounted media campaigns against the regime, ultimately effectuating the removal of Ali Abdullah Saleh as president in 2011. Since then, Karman has continued her campaign for free and open press and continues to be a vocal voice on the struggle for the expansion of democratic rights in the Middle East.",
-    "location": "Oculus Room OC1.05",
-    "email": "gino@example.com",
-    "phone": "+1-541-754-3010",
-    "id": "6"
-  }, {
-    "name": "Laurence Tubiana",
-    "profilePic": "assets/img/speakers/iguana.jpg",
-    "twitter": "ionicframework",
-    "about": "Laurence Tubiana is the CEO of the European Climate Foundation and the key architect of the landmark COP21 Paris Agreement. After obtaining her doctorate in economics at Sciences Po, Laurence Tubiana started her career as Research Director for the French Institute for Agricultural Research. She went on to found and lead Solagral, an NGO working on food security and global environment, as well as serve as Senior Adviser on the Environment to Former French Prime Minister Lionel Jospin to help with the negotiations for the Kyoto Protocol. She founded and until recently chaired the Paris-based Institute of Sustainable Development and International Relations (IDDRI) and was appointed High Level Champion for climate action following her integral role during and in preparation of the momentous 2015 COP21 United Nations Climate Change Conference. Laurence Tubiana has held numerous academic positions, including as a Professor and Scientific Director for the International Development and Environmental Studies Master degrees at Sciences Po, and has been a member of boards and scientific committees such as the Chines Committee on the Environment and International Development.",
-    "location": "Oculus Room OC1.05",
-    "email": "isabella@example.com",
-    "phone": "+1-541-754-3010",
-    "id": "7"
-  }, {
-    "name": "Barbara Stocking",
-    "profilePic": "assets/img/speakers/kitten.jpg",
-    "twitter": "ionicframework",
-    "about": "Dame Barbara Stocking is the former CEO of Oxfam. The title of her speech will be “Changing the world – needed now even more than ever”, something DBE Stocking has been doing throughout her entire career. After graduating from Cambridge, DBE Stocking had a successful career working for the World Health Organisation in West Africa and in the NHS for more than 10 years. Subsequently, she was appointed as the Chief Executive of Oxfam in 2001, which she run steadily, becoming a key figure in some of the world’s worst humanitarian crisis. Under her mandate, Oxfam was a crucial contributor in tackling the conflicts in Afghanistan and Iraq as well as the aftermath of natural disasters such as the South-Asian tsunami and the Pakistan earthquake. After running Oxfam for 12 years, she stepped down in 2013 and became president of the Murray Edwards College in Cambridge.",
-    "location": "Oculus Room OC1.05",
-    "email": "karl@example.com",
-    "phone": "+1-541-754-3010",
-    "id": "8"
-  }, {
-    "name": "Mahmoud Mohieldin",
-    "profilePic": "assets/img/speakers/lion.jpg",
-    "twitter": "ionicframework",
-    "about": "Mahmoud Mohieldin is the World Bank Group Senior Vice President for the 2030 Development Agenda. After obtaining his doctorate at Warwick, where he co-founded the Economics Society, Dr.Mohieldin proceeded to make substantial contributions to the development of Egypt’s economy, holding senior positions at various government ministries and in the private sector. Most notably, Dr.Mohieldin served as Minister of Investment, where he led a comprehensive reform program to modernise and liberalise the economy - earning Egypt the distinction as Top Reformer in the Doing Business Report for four years. Dr.Mohieldin also served on multiple boards of directors, including the Central Bank of Egypt, and was selected a Young Global Leader of the World Economic Forum. Away from the public and private sector, he was Professor of Economics and Finance at Cairo University, is an honorary professor at Durham University and member of the Advisory Board of the Durham Business School. He has authored numerous publications and articles in leading journals in the fields of international finance, economics, and development, both in English and Arabic.",
-    "location": "Oculus Room OC1.05",
-    "email": "lionel@example.com",
-    "phone": "+1-541-754-3010",
-    "id": "9"
-  }, {
-    "name": "Wendy Carlin",
-    "profilePic": "assets/img/speakers/mouse.jpg",
-    "twitter": "ionicframework",
-    "about": "Wendy Carlin is the Professor of Economics at University College London. Prof. Carlin has undertaken research focusing primarily on macroeconomics, institutions and economic performance, and the economics of transition; with several works looking into macroeconomic policy and integrating the financial system in the macroeconomic model. Alongside her academic role, Professor Carlin is a research fellow at the Centre for Economic Policy Research and on the expert advisory panel of the Office for Budget Responsibility. She is also leading the international CORE project to revolutionise the way Economics is taught at university by providing a more problem-motivated and interactive way to learn economics whilst also bringing recent developments into the learning environment. The eBook the project has so far produced is used by highly respected institutions all over the world including Sciences-Po, UCL and the Toulouse School of Economics. The project aims to take what is exciting about being an economist today, and bringing that excitement to the classroom.",
-    "location": "Oculus OC1.05",
-    "email": "molly@example.com",
-    "phone": "+1-541-754-3010",
-    "id": "10"
-  }, {
-    "name": "Guy Standing",
-    "profilePic": "assets/img/speakers/puppy.jpg",
-    "twitter": "ionicframework",
-    "about": "Guy Standing is the founder member and honorary co-president of the Basic Income Earth Network (BIEN). After obtaining a doctorate in Economics from the University of Cambridge and a master’s degree in Industrial Relations from the University of Illinois, Guy Standing held numerous senior positions at the ILO, including Director of the Labour Market Policies Branch, Director of the Central and Eastern European Team and Director of the Socio-Economic Security Programme. More recently Professor Standing has become a founder member and honorary co-president of the Basic Income Earth Network (BIEN), an international non-governmental organisation that brings together economists, philosophers and other social scientist from over 50 countries and promotes basic income. He has written and edited books on unemployment, labour market flexibility, structural adjustment policies, and social protection policy. His most recent titles include „Basic Income: And How We Can Make It Happen” and „The Corruption of Capitalism: Why Rentiers Thrive and Work Does Not Pay.”",
-    "location": "Oculus OC1.05",
-    "email": "paul@example.com",
-    "phone": "+1-541-754-3010",
-    "id": "11"
-  }, {
-    "name": "Arun Advani",
-    "profilePic": "assets/img/speakers/rabbit.jpg",
-    "twitter": "ionicframework",
-    "about": "Arun Advani is an Assistant Professor at the University of Warwick. Dr. Advani’s career comprises positions as Deputy Director and Research Associate at CAGE and Research Fellow at CRETA as well as at the Institute for Fiscal Studies. Dr. Advani’s research primarily revolves around the topical fields of development economics and public policy, where his innovative approach greatly contributes to the understanding of issues in development economics. His recently published study `Insurance Networks and Endogenous Poverty Traps' provides a novel explanation for the lack of profitable investments in poor households. Featured on the World Bank Development Impact Blog and as the top story in the Weekly Newsletter from the Financial Access Initiative, the paper highlights the ways to improve the cost-effectiveness of the capital transfer programs. As a Research Fellow at the IFS, Dr. Advani also co-authored a numerous policy reports and comments on environmental taxation in the UK, as well as worked on issues of environmental economics.",
-    "location": "Everywhere",
-    "email": "rachel@example.com",
-    "phone": "+1-541-754-3010",
-    "id": "12"
-  }, {
-    "name": "Helios Herrera",
-    "profilePic": "assets/img/speakers/turtle.jpg",
-    "twitter": "ionicframework",
-    "about": "Helios Herrera is an Associate Professor of Economics at the University of Warwick. Prof Herrera specialises in Political Economy, Applied Theory, Macroeconomics, and Experimental and Financial Economics. He is the coordinator of the Political Economy and Public Economics (PEPE) Warwick Research Group. His research interests involve voter turnout, democratic systems of government, as well as populism. His talk will indeed focus on a very controversial topic he is currently researching: economic populism, which has come back strongly in the western world as the current economic insecurity fuelled demand for populist policies. Before coming to Warwick, Prof Herrera served various academic posts, including Associate Professor at HEC Montreal and Lecturer at Columbia University’s School of International and Public Affairs. He earned his undergraduate degree in Physics from the University of Pavia, and his PhD in Economics from New York University (NYU). Here is an article from the Economist, “The power of populists”, which features Prof. Herrera’s research: https://www.economist.com/…/21725298-when-elites-appear-ine…",
-    "location": "Everywhere",
-    "email": "ted@example.com",
-    "phone": "+1-541-754-3010",
-    "id": "13"
-  }, {
-    "name": "Ian Cross",
-    "profilePic": "assets/img/speakers/turtle.jpg",
-    "twitter": "ionicframework",
-    "about": "Ian Cross is a medical doctor with Doctors Without Borders (MSF). With MSF Dr. Cross has worked at the very centre of what the UN describes as “the world’s fastest growing refugee crisis” – a crisis which has since August 2017 displaced near 600,000 Rohingya refugees from Myanmar who have crossed the border to Bangladesh to flee from violence and persecution. Having treated refugees and seen the many tragedies first hand Dr. Cross is uniquely positioned to offer insights into the abhorrent human rights crisis and MSF’s immense contribution to the affected minorities. Founded in 1971, MFS has continually helped tens of millions of people in more than 80 countries by providing medical care where it is most needed. MSF’s remarkable action in response to conflicts, epidemics and other catastrophes is rightfully reflected in its awarding of the Nobel Peace Prize in 1999 as well as the Indira Gandhi Prize in 1996. Since its establishment, the organization is not only committed to saving lives, but also exposing injustice, as ‘silence can kill’; such message is more than apposite today, and Dr. Cross is here promoting it in this year’s summit.",
-    "location": "Everywhere",
-    "email": "ted@example.com",
-    "phone": "+1-541-754-3010",
-    "id": "13"
-  }],
 
 
   "team": [{

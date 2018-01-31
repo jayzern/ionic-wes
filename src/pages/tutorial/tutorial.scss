@@ -28,7 +28,7 @@ page-tutorial {
 
   p {
     padding: 0 40px;
-    font-size: 14px;
+    font-size: 24px;
     line-height: 1.5;
     color: #60646B;
 
@@ -37,4 +37,20 @@ page-tutorial {
     }
   }
 
+}
+
+@media (max-width:768px)
+{
+  page-tutorial {
+    p {
+      padding: 0 40px;
+      font-size: 14px;
+      line-height: 1.5;
+      color: #60646B;
+
+      b {
+        color: #000000;
+      }
+    }
+  }
 }
