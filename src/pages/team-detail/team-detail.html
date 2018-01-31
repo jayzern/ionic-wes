@@ -4,6 +4,7 @@
   </ion-navbar>
 </ion-header>
 
+<!--
 <ion-content>
   <ion-item *ngFor="let member of members">
   <p>{{member.name}}</p>
@@ -11,4 +12,38 @@
   <p>{{member.course}}</p>
   <p>{{member.year}}</p>
   </ion-item>
+</ion-content>
+-->
+
+<ion-content class="outer-content speaker-list">
+
+    <img src="{{team?.picture}}" style="align: center;">
+
+    <ion-grid fixed>
+      <ion-row align-items-stretch>
+
+        <ion-col col-12 col-md-6 align-self-stretch align-self-center *ngFor="let member of members" approxItemHeight="457px">
+
+          <ion-card class="speaker-card">
+            <ion-card-header>
+              <button ion-item detail-none>
+                <ion-avatar item-start>
+                  <img src="{{member.profilePic}}">
+                </ion-avatar>
+                {{member.name}}
+              </button>
+            </ion-card-header>
+
+            <ion-card-content class="outer-content">
+              <ion-list>
+                <h2>{{member.position}} | {{member.course}} | {{member.year}}</h2>
+                <p>{{member.Biography}}</p>
+              </ion-list>
+            </ion-card-content>
+          </ion-card>
+
+        </ion-col>
+      </ion-row>
+    </ion-grid>
+
 </ion-content>
