@@ -15,13 +15,38 @@
 </ion-content>
 -->
 
+
 <ion-content class="outer-content speaker-list">
 
-    <img src="{{team?.picture}}" style="position: center;">
-    <p>{{team?.description}}</p>
+
+
 
     <ion-grid fixed>
+      <!--
       <ion-row align-items-stretch>
+        <ion-col col-12 col-md-6 align-self-stretch align-self-center approxItemHeight="457px">
+          <ion-card>
+            <img src="{{team?.picture}}"/>
+            <ion-card-content>
+              <ion-card-title>   </ion-card-title>
+              <p>{{team?.description}}</p>
+            </ion-card-content>
+          </ion-card>
+        </ion-col>
+      </ion-row>
+    -->
+
+      <ion-row align-items-stretch>
+
+        <ion-col col-12 col-md-6 align-self-stretch align-self-center approxItemHeight="457px">
+          <ion-card>
+            <img src="{{team?.picture}}"/>
+            <ion-card-content>
+              <ion-card-title>   </ion-card-title>
+              <p>{{team?.description}}</p>
+            </ion-card-content>
+          </ion-card>
+        </ion-col>
 
         <ion-col col-12 col-md-6 align-self-stretch align-self-center *ngFor="let member of members" approxItemHeight="457px">
 
@@ -29,15 +54,14 @@
             <ion-card-header>
               <button ion-item detail-none>
                 <ion-avatar item-start>
-                  <img src="{{member.profilePic}}" style="height: 100px; width: 100px;">
+                  <img src="{{member.profilePic}}" style="height: 90px; width: 90px;">
                 </ion-avatar>
-                {{member.name}}
               </button>
             </ion-card-header>
 
             <ion-card-content class="outer-content">
               <ion-list>
-                <h2>{{member.position}} | {{member.course}} | {{member.year}}</h2>
+                <h2>{{member.name}} | {{member.position}} | {{member.course}} | {{member.year}}</h2><br>
                 <p>{{member.Biography}}</p>
               </ion-list>
             </ion-card-content>
