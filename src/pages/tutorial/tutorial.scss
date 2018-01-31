@@ -1,4 +1,6 @@
-
+ion-card {
+  text-align: justify !important;
+}
 page-tutorial {
   .swiper-pagination-bullet-active {
     background: red;
@@ -31,6 +33,7 @@ page-tutorial {
     font-size: 24px;
     line-height: 1.5;
     color: #60646B;
+    align: justify;
 
     b {
       color: #000000;

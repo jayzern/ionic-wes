@@ -13,7 +13,7 @@
 
 .about-info p {
   color: #697072;
-  text-align: left;
+  text-align: justify;
 }
 
 .about-info ion-icon {
@@ -41,20 +41,20 @@
 
   ion-card {
     position: relative;
-    text-align: center;
+    text-align: center !important;
   }
 
   .card-title {
     position: absolute;
     top: 36%;
-    font-size: 2.0em;
+    font-size: 4.0em;
     width: 100%;
     font-weight: bold;
     color: #fff;
   }
 
   .card-subtitle {
-    font-size: 1.0em;
+    font-size: 1.5em;
     position: absolute;
     top: 52%;
     margin-top:5px;
