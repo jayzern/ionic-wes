@@ -29,6 +29,8 @@ import { TabsPage } from '../pages/tabs-page/tabs-page';
 import { TutorialPage } from '../pages/tutorial/tutorial';
 import { SupportPage } from '../pages/support/support';
 import { NotificationsPage } from '../pages/notifications/notifications';
+import { SponsorsPage } from '../pages/sponsors/sponsors';
+
 
 import { ConferenceData } from '../providers/conference-data';
 import { UserData } from '../providers/user-data';
@@ -54,6 +56,7 @@ import { UserData } from '../providers/user-data';
     TabsPage,
     TutorialPage,
     NotificationsPage,
+    SponsorsPage,
     SupportPage
   ],
   imports: [
@@ -77,6 +80,7 @@ import { UserData } from '../providers/user-data';
         { component: LoginPage, name: 'LoginPage', segment: 'login' },
         { component: AccountPage, name: 'AccountPage', segment: 'account' },
         { component: NotificationsPage, name: 'NotificationsPage', segment: 'notifications' },
+        { component: SponsorsPage, name: 'SponsorsPage', segment: 'sponsors' },
         { component: SignupPage, name: 'SignupPage', segment: 'signup' }
       ]
     }),
@@ -102,6 +106,7 @@ import { UserData } from '../providers/user-data';
     TabsPage,
     TutorialPage,
     NotificationsPage,
+    SponsorsPage,
     SupportPage
   ],
   providers: [

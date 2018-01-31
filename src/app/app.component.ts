@@ -17,6 +17,7 @@ import { SpeakerListPage } from '../pages/speaker-list/speaker-list';
 import { TeamListPage } from '../pages/team-list/team-list';
 import { QuestionAnswerPage } from '../pages/question-answer/question-answer';
 import { NotificationsPage } from '../pages/notifications/notifications';
+import { SponsorsPage } from '../pages/sponsors/sponsors';
 //import { SupportPage } from '../pages/support/support';
 
 import { ConferenceData } from '../providers/conference-data';
@@ -49,7 +50,7 @@ export class ConferenceApp {
   appPages: PageInterface[] = [
     { title: 'Schedule', name: 'TabsPage', component: TabsPage, tabComponent: SchedulePage, index: 0, icon: 'calendar' },
     { title: 'Map', name: 'TabsPage', component: TabsPage, tabComponent: MapPage, index: 1, icon: 'map' },
-    { title: 'Q&A', name: 'TabsPage', component: TabsPage, tabComponent: QuestionAnswerPage, index: 2, icon: 'help' },
+    { title: 'Q&A', name: 'TabsPage', component: TabsPage, tabComponent: QuestionAnswerPage, index: 2, icon: 'chatbubbles' },
     { title: 'Notifications', name: 'TabsPage', component: TabsPage, tabComponent: NotificationsPage, index: 3, icon: 'notifications' }
   ];
 
@@ -58,6 +59,7 @@ export class ConferenceApp {
     { title: 'Speakers', name: 'SpeakerList', component: SpeakerListPage, icon: 'contacts' },
     { title: 'About', name: 'About', component: AboutPage, icon: 'information-circle' },
     { title: 'Team', name: 'TeamList', component: TeamListPage, icon: 'people' },
+    { title: 'Sponsors', name: 'Sponsors', component: SponsorsPage, icon: 'hand'}
   ];
 
 
