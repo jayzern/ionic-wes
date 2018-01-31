@@ -412,6 +412,7 @@
     "title": "Summit Coordinators",
     "picture": "assets/img/team/summitcoordinators.jpg",
     "description" : "The Coordinators take overall command of the Summit with influence over every aspect of its planning and implementation. The pair are the main outlet for innovation each year and as the representatives of the Summit they meet with key partners to discuss the aims and logistics of the weekend. On the weekend itself the Coordinators will be responsible for the general image of the Summit and organisation of the summit's extensive team. They will also be on hand to answer any questions from delegates, speakers and sponsors.",
+    "icon": "star",
     "id": "1",
     "members": [{
         "name": "Chris Stone",
@@ -432,6 +433,7 @@
     "title": "Finance and Sponsorship",
     "picture": "assets/img/team/finance.jpg",
     "description": "The Finance and Sponsorship Team is responsible both for management of the summit finances and liaising with sponsors; raising sponsorship and ensuring our partners get the exposure they deserve. Working with our high profile sponsors for mutual benefit is a big part of the team's role, and we are also responsible for the departmental budget allocation, control of summit spending and ensuring we can get the most out of one of the largest society budgets on campus.",
+    "icon": "calculator",
     "id": "2",
     "members": [{
         "name": "Gabriel Dumfahrt",
@@ -465,6 +467,7 @@
   }, {
     "title": "Talks",
     "picture": "assets/img/team/talks.jpg",
+    "icon": "bulb",
     "description": "Each year the Talks Team strive to secure a distinguishing variety of high-profile speakers for the Summit. From Nobel Prize Winners to Central Bank Governors, year upon year the Summit can claim to welcome movers and shakers of the economic, political and business worlds. Inviting speakers and subsequently arranging their speaking arrangements and logistics are just a few of the tasks involved in creating the Summit. Besides organising stand-alone promotional speaker events leading up the Summit, our Team members also conduct various seminars addressing happening issues of today during the Summit.",
     "id": "3",
     "members": [{
@@ -493,6 +496,7 @@
     "title": "Tech",
     "picture": "assets/img/team/tech.jpg",
     "description": "The Tech Team is responsible for the maintenance of the Warwick Economics Summit website and all the technical aspects that the Summit requires throughout the year. These responsibilities range from ticketing through to live-streaming the talks during the weekend. This year, the Tech Team has worked exceptionally hard to bring you this brand new website, and will continue to do so all the way up to the Summit weekend.",
+    "icon": "code-working",
     "id": "4",
     "members": [{
     	"name": "Artur Begyan",
@@ -520,6 +524,7 @@
     "title": "Internal Marketing and Operations",
     "picture": "assets/img/team/imo.jpg",
     "description": "We are responsible for looking after weekend operations as well as marketing the Warwick Economics Summit to students at the University of Warwick. The Warwick Economics Summit has grown to be one of the biggest and best events on campus, as we regularly put on a stimulating weekend that is a sell-out success. Internal marketing therefore not only demands that we sell enough tickets to fill half the capacity of the Ramphal theatre, but moreover to ensure that we maintain an on campus presence from the start of the next academic year through to the post-Summit buzz.",
+    "icon": "home",
     "id": "5",
     "members": [{
     	"name": "Gabriele Stravinskaite",
@@ -547,6 +552,7 @@
     "title": "External Marketing and Hospitality",
     "picture": "assets/img/team/emh.jpg",
     "description": "Responsible for marketing the Warwick Economics Summit to students outside the University of Warwick. The Summit attracts students from the top universities across the world - last year it hosted 200 external delegates from 17 different countries! The team is also responsible for providing delegates with premium accommodation and transport to ensure that they are comfortable throughout their visit to the University.",
+    "icon": "globe",
     "id": "6",
     "members": [{
     	"name": "Klaudia Gegotek",
@@ -579,8 +585,9 @@
     }]
   }, {
     "title": "Communications",
-    "picture": "assets/img/team/communcations.jpg",
+    "picture": "assets/img/team/communications.jpg",
     "description": "The Communications Team is responsible for all communications, both internally and externally, regarding the Summit. They liaise with the media, ranging from national press outlets to student publications in order to give the Summit as much coverage as possible. They are also responsible for the management of the prominent social media presence that the Summit enjoys. The team will be working to bring you the latest news on the development of the 2016 programme, as well as the best of the weekend as it happens. Be sure to keep an eye on the website, our Facebook page and our Twitter feed for our updates.",
+    "icon": "document",
     "id": "7",
     "members": [{
     	"name": "Anisha Bhavnani",
@@ -601,6 +608,7 @@
     "title": "Social Events",
     "picture": "assets/img/team/socials.jpg",
     "description": "The Social Events Team is the creative engine that drives the Summit Ball, which is widely regarded as one of the highlights of the University of Warwick's social calendar. The Ball each year improves on its predecessors and the team will be responsible for ensuring that all aspects are planned, from the Theme, to the entertainment that will be provided for delegates. In addition, the team will be responsible for organising the many socials on which are built the core elements of The Summit team: friendship, relationships and memories.",
+    "icon": "wine",
     "id": "8",
     "members": [{
     	"name": "Aneesah Sarwar",

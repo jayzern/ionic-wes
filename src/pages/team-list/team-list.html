@@ -3,7 +3,7 @@
     <button ion-button menuToggle>
       <ion-icon name="menu"></ion-icon>
     </button>
-    <ion-title>WES Team 2018</ion-title>
+    <ion-title>Team</ion-title>
   </ion-navbar>
 </ion-header>
 
@@ -16,6 +16,7 @@
 
           <ion-card class="speaker-card">
             <ion-card-header (click)="goToTeamDetail(team)">
+              <ion-icon item-start name="{{team.icon}}"></ion-icon>
               {{team.title}}
             </ion-card-header>
           </ion-card>
