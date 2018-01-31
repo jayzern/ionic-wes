@@ -59,7 +59,7 @@ export class ConferenceApp {
     { title: 'Speakers', name: 'SpeakerList', component: SpeakerListPage, icon: 'contacts' },
     { title: 'About', name: 'About', component: AboutPage, icon: 'information-circle' },
     { title: 'Team', name: 'TeamList', component: TeamListPage, icon: 'people' },
-    { title: 'Sponsors', name: 'Sponsors', component: SponsorsPage, icon: 'hand'}
+    { title: 'Sponsors', name: 'SponsorsPage', component: SponsorsPage, icon: 'hand'}
   ];
 
 

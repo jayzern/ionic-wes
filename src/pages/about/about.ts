@@ -8,7 +8,7 @@ import { PopoverPage } from '../about-popover/about-popover';
   templateUrl: 'about.html'
 })
 export class AboutPage {
-  conferenceDate = '2018-02-03';
+  conferenceDate = '2018-02-02';
   disableSelector:boolean
 
   constructor(public popoverCtrl: PopoverController) {
