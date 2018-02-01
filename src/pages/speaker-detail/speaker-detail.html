@@ -1,25 +1,29 @@
 <ion-header>
   <ion-navbar>
-    <ion-title>{{speaker?.name}}</ion-title>
+    <ion-title>Speaker Detail</ion-title>
   </ion-navbar>
 </ion-header>
 
 <ion-content padding class="speaker-detail">
+
+<ion-card *ngIf="speaker">
+  <img [src]="speaker.profilePic" style="width: 100%; margin-left:auto; margin-right:auto;"/>
+  <ion-card-content>
+    <ion-card-title>
+      {{speaker?.name}}
+      </ion-card-title>
+    <p>
+      {{speaker?.about}}
+    </p>
+  </ion-card-content>
+</ion-card>
+
+  <!--
   <div text-center *ngIf="speaker">
     <img [src]="speaker.profilePic" [alt]="speaker.name"><br>
 
-    <!--
-    <button ion-button icon-only clear small color="twitter">
-      <ion-icon name="logo-twitter"></ion-icon>
-    </button>
-    <button ion-button icon-only clear small color="github">
-      <ion-icon name="logo-github"></ion-icon>
-    </button>
-    <button ion-button icon-only clear small color="instagram">
-      <ion-icon name="logo-instagram"></ion-icon>
-    </button>
-  -->
   </div>
 
   <p>{{speaker?.about}}</p>
+-->
 </ion-content>
