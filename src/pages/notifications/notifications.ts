@@ -1,35 +1,46 @@
 import { Component } from '@angular/core';
+import { NavController } from 'ionic-angular';
+import { FacebookService } from './../../services/facebook.service';
 
-import {
-  ActionSheet,
-  ActionSheetController,
-  Config,
-  NavController
-} from 'ionic-angular';
-import { InAppBrowser } from '@ionic-native/in-app-browser';
-
-import { ConferenceData } from '../../providers/conference-data';
-
+import { Observable } from 'rxjs/Rx';
+import 'rxjs/add/operator/map';
 
 @Component({
   selector: 'page-notifications',
-  templateUrl: 'notifications.html'
+  templateUrl: 'notifications.html',
+  providers: [FacebookService]
 })
-
 export class NotificationsPage {
-  actionSheet: ActionSheet;
+  public posts: Observable<any[]>;
 
-  constructor(
-    public actionSheetCtrl: ActionSheetController,
-    public navCtrl: NavController,
-    public confData: ConferenceData,
-    public config: Config,
-    public inAppBrowser: InAppBrowser
-  ) {}
+  constructor(public navCtrl: NavController,
+              public facebookService: FacebookService) {
 
-  ionViewDidLoad() {
-
+    this.posts = this.facebookService
+      .getPosts('WarwickEconomicsSummit')
+      .map(data => data.map(this.mapPosts));
   }
 
+  // Pipe dates
+  mapPosts = (post) => {
+   return {
+     from: post.from,
+     time: post.created_time * 1000, // convert to milliseconds
+     message: post.message,
+     photos: this.getPhotos(post)
+   };
+ }
 
+ // filter photos
+ getPhotos = (post) => {
+   if (!post.attachments)
+     return [];
+
+   let attachments = post.attachments.data[0].subattachments ||
+                     post.attachments;
+
+   return attachments.data
+     .filter(x => x.type == "photo")
+     .map(x => x.media.image);
+ }
 }
