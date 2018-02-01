@@ -1,12 +1,12 @@
 $categories: (
  ionic: color($colors, primary),
- economics: #AC282B,
- miscellaneous: #8E8D93,
- politics: #FE4C52,
- seminars: #FD8B2D,
- videomessage: #FED035,
- paneldebate: #69BB7B,
- summitball: #3BC7C4,
+ economics: yellow,
+ miscellaneous: blue,
+ politics: green,
+ seminars: red,
+ videomessage: pink,
+ paneldebate: orange,
+ summitball: purple,
 );
 
 @function auxiliary-categories() {

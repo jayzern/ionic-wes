@@ -62,7 +62,7 @@ import { UserData } from '../providers/user-data';
   imports: [
     BrowserModule,
     HttpModule,
-    IonicModule.forRoot(ConferenceApp, {}, {
+    IonicModule.forRoot(ConferenceApp, {mode:'md'}, { // mode: md sets all iOS devices to view android/windows version :)
       links: [
         { component: TabsPage, name: 'TabsPage', segment: 'tabs-page' },
         { component: SchedulePage, name: 'Schedule', segment: 'schedule' },
