@@ -282,15 +282,6 @@
 
 
     "speakers": [{
-      "name": "Joseph Muscat",
-      "profilePic": "assets/img/speakers/joseph_muscat.jpg",
-      "twitter": "ionicframework",
-      "about": "Prime Minister of Malta. Dr. Muscat is the leader of Malta’s labour party and is serving his second term as Prime Minister, after his re-election in 2015. He was firstly elected Prime Minister in 2013, and at 39 years old was one of the youngest world leaders, and the recipient the Outstanding Young Person of the Year. Dr. Muscat has left a strong mark both domestically and internationally. He recently sat at the very heart of EU policy-making, serving a term as President of the European Council in 2017. Malta’s presidency had several pressing issues on the agenda, including the migration crisis and the fight against terrorism. Domestically, his government has notably made considerable gains in civil rights. Malta has introduced same-sex marriage in July 2017, just one of several policies that led the UN to define the country ‘Gold Standard’ of LGBT rights. Dr. Muscat graduated with Honours from the University of Malta in Public Policy and later received a Master of European Studies. He also holds a Ph.D. in Management Research from the University of Bristol. Before his political career, Dr. Muscat worked as a journalist." ,
-      "location": "Oculus Room OC1.05",
-      "email": "JMuscat@eWES2018.com",
-      "phone": "+1-541-754-3010",
-      "id": "1"
-    }, {
       "name": "Mervyn King",
       "profilePic": "assets/img/speakers/mervyn_king.png",
       "twitter": "ionicframework",
@@ -298,7 +289,7 @@
       "location": "Oculus Room OC1.05",
       "email": "MKing@example.com",
       "phone": "+1-541-754-3010",
-      "id": "2"
+      "id": "1"
     }, {
       "name": "John Taylor",
       "profilePic": "assets/img/speakers/john_taylor.jpg",
@@ -307,7 +298,7 @@
       "location": "Oculus Room OC1.05",
       "email": "donald@example.com",
       "phone": "+1-541-754-3010",
-      "id": "3"
+      "id": "2"
     }, {
       "name": "Mario Monti",
       "profilePic": "assets/img/speakers/mario_monti.jpg",
@@ -316,7 +307,7 @@
       "location": "Oculus Room OC1.05",
       "email": "eva@example.com",
       "phone": "+1-541-754-3010",
-      "id": "4"
+      "id": "3"
     }, {
       "name": "Cecilia Skingsley",
       "profilePic": "assets/img/speakers/cecilia_skingsley.jpg",
@@ -325,7 +316,7 @@
       "location": "Oculus Room OC1.05",
       "email": "ellie@example.com",
       "phone": "+1-541-754-3010",
-      "id": "5"
+      "id": "4"
     }, {
       "name": "Tawakkol Karman",
       "profilePic": "assets/img/speakers/tawakkol_karman.jpg",
@@ -334,7 +325,7 @@
       "location": "Oculus Room OC1.05",
       "email": "gino@example.com",
       "phone": "+1-541-754-3010",
-      "id": "6"
+      "id": "5"
     }, {
       "name": "Laurence Tubiana",
       "profilePic": "assets/img/speakers/laurence_tubiana.png",
@@ -343,7 +334,7 @@
       "location": "Oculus Room OC1.05",
       "email": "isabella@example.com",
       "phone": "+1-541-754-3010",
-      "id": "7"
+      "id": "6"
     }, {
       "name": "Barbara Stocking",
       "profilePic": "assets/img/speakers/barbara_stocking.jpg",
@@ -352,7 +343,7 @@
       "location": "Oculus Room OC1.05",
       "email": "karl@example.com",
       "phone": "+1-541-754-3010",
-      "id": "8"
+      "id": "7"
     }, {
       "name": "Mahmoud Mohieldin",
       "profilePic": "assets/img/speakers/mahmoud_mohieldin.jpg",
@@ -361,7 +352,7 @@
       "location": "Oculus Room OC1.05",
       "email": "lionel@example.com",
       "phone": "+1-541-754-3010",
-      "id": "9"
+      "id": "8"
     }, {
       "name": "Wendy Carlin",
       "profilePic": "assets/img/speakers/wendy_carlin.jpg",
@@ -370,7 +361,7 @@
       "location": "Oculus OC1.05",
       "email": "molly@example.com",
       "phone": "+1-541-754-3010",
-      "id": "10"
+      "id": "9"
     }, {
       "name": "Guy Standing",
       "profilePic": "assets/img/speakers/guy_standing.jpg",
@@ -379,7 +370,7 @@
       "location": "Oculus OC1.05",
       "email": "paul@example.com",
       "phone": "+1-541-754-3010",
-      "id": "11"
+      "id": "10"
     }, {
       "name": "Arun Advani",
       "profilePic": "assets/img/speakers/arun_advani.jpg",
@@ -388,7 +379,7 @@
       "location": "Everywhere",
       "email": "rachel@example.com",
       "phone": "+1-541-754-3010",
-      "id": "12"
+      "id": "11"
     }, {
       "name": "Helios Herrera",
       "profilePic": "assets/img/speakers/helios_herrera.jpg",
@@ -397,7 +388,7 @@
       "location": "Everywhere",
       "email": "ted@example.com",
       "phone": "+1-541-754-3010",
-      "id": "13"
+      "id": "12"
     }, {
       "name": "Ian Cross",
       "profilePic": "assets/img/speakers/ian_cross.jpg",
@@ -406,7 +397,7 @@
       "location": "Everywhere",
       "email": "ted@example.com",
       "phone": "+1-541-754-3010",
-      "id": "13"
+      "id": "12"
     }],
 
 
