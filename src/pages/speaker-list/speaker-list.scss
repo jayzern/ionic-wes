@@ -51,9 +51,11 @@ page-speaker-list {
   }
 
   .card-subtitle {
+    top:0;
+    text-align: right;
+    margin-right:50px;
     font-size: 1.0em;
     position: absolute;
-    top: 80%;
     width: 100%;
     color: #fff;
   }

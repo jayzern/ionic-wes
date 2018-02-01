@@ -54,14 +54,14 @@
             <ion-card-header>
               <button ion-item detail-none>
                 <ion-avatar item-start>
-                  <img src="{{member.profilePic}}" style="height: 120px; width: 120px; left: 50%; right: 50%;">
+                  <img src="{{member.profilePic}}" style="height: 120px; width: 120px; margin-left: 0;">
                 </ion-avatar>
               </button>
             </ion-card-header>
 
             <ion-card-content class="outer-content">
               <ion-list>
-                <h2>{{member.name}} | {{member.position}} | {{member.course}} | {{member.year}}</h2><br>
+                <h3 style="text-align:left; font-weight:bold;">{{member.name}} | {{member.position}} | {{member.course}} | {{member.year}}</h3><br>
                 <p>{{member.Biography}}</p>
               </ion-list>
             </ion-card-content>
