@@ -6,7 +6,7 @@ import { IonicApp, IonicModule, IonicErrorHandler } from 'ionic-angular';
 
 import { InAppBrowser } from '@ionic-native/in-app-browser';
 import { SplashScreen } from '@ionic-native/splash-screen';
-import { DocumentViewer } from '@ionic-native/document-viewer';
+//import { DocumentViewer } from '@ionic-native/document-viewer';
 //import { PdfViewerComponent } from 'ng2-pdf-viewer';
 import { IonicImageViewerModule } from 'ionic-img-viewer';
 
@@ -120,7 +120,7 @@ import { UserData } from '../providers/user-data';
     ConferenceData,
     UserData,
     InAppBrowser,
-    DocumentViewer,
+    //DocumentViewer,
     SplashScreen
   ]
 })
