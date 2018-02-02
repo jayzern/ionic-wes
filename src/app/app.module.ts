@@ -8,6 +8,7 @@ import { InAppBrowser } from '@ionic-native/in-app-browser';
 import { SplashScreen } from '@ionic-native/splash-screen';
 import { DocumentViewer } from '@ionic-native/document-viewer';
 //import { PdfViewerComponent } from 'ng2-pdf-viewer';
+import { IonicImageViewerModule } from 'ionic-img-viewer';
 
 
 import { IonicStorageModule } from '@ionic/storage';
@@ -65,6 +66,7 @@ import { UserData } from '../providers/user-data';
   ],
   imports: [
     BrowserModule,
+    IonicImageViewerModule,
     HttpModule,
     IonicModule.forRoot(ConferenceApp, {mode:'md'}, { // mode: md sets all iOS devices to view android/windows version :)
       links: [

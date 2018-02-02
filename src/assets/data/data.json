@@ -281,124 +281,137 @@
 
 
 
-    "speakers": [{
-      "name": "Mervyn King",
-      "profilePic": "assets/img/speakers/mervyn_king.png",
-      "twitter": "ionicframework",
-      "about": "Baron King of Lothbury, the Governor of the Bank of England during the Financial Crisis of 2007-2008 and one of the most important central bankers of the 21st century. Following a successful career in academia, including teaching at MIT and Harvard, Lord King went on to join the Bank of England in 1991 as Chief Economist. He would then lead it from 2003-2013 as Governor and oversaw the Bank during the financial crisis and the Great Recession. Lord King is also a prominent author, most famously known for ‘The End of Alchemy’, one of the most relevant books to come out of the financial crisis. After leaving the Bank in 2013, he was appointed a life peer and entered the House of Lords as a crossbencher in July 2013. Since then he has retaken his career in academia as a Professor at the Stern School of Business in New York.",
-      "location": "Oculus Room OC1.05",
-      "email": "MKing@example.com",
-      "phone": "+1-541-754-3010",
-      "id": "1"
-    }, {
-      "name": "John Taylor",
-      "profilePic": "assets/img/speakers/john_taylor.png",
-      "twitter": "ionicframework",
-      "about": "Professor Taylor is the founding father of the paradigm-shifting Taylor Rule used by almost all Central Banks in the world. During his distinguished career, Prof. Taylor has amongst other key roles served on the President’s Council of Economic Advisers, held the position of US Treasury Under Secretary for International Affairs and currently sits on the G20 Eminent Persons Group on Global Financial Governance. During his time at the US Treasury, Taylor was most notably responsible for the oversight of the IMF and the World Bank along with coordinating policy with the G-7 and G-20. His academic advisory and pioneering contributions have been universally acclaimed. Prof. Taylor has been credited by two Former Chairmen of the Federal Reserve, Ben Bernanke for its “influence on monetary theory and policy” and Chair Janet Yellen for “affecting the way policymakers and economists analyze the economy and approach monetary policy”. In 2017, Taylor was considered, alongside Jerome H. Powell, by President Trump as one of the nominees to succeed Janet Yellen as Chair of the Federal Reserve.",
-      "location": "Oculus Room OC1.05",
-      "email": "donald@example.com",
-      "phone": "+1-541-754-3010",
-      "id": "2"
-    }, {
-      "name": "Mario Monti",
-      "profilePic": "assets/img/speakers/mario_monti.png",
-      "twitter": "ionicframework",
-      "about": "Mario Monti is the President of Bocconi University. In 2011, Monti was appointed Prime Minister of Italy as a technocratic government was formed to rescue the country from financial ruin. He then proceeded to found his own party in 2013, Civic Choice, which was the fourth largest in that year’s election. He holds a degree in Economics from Bocconi University and pursued his graduate studies at Yale University under the supervision of Nobel Prize Laureate James Tobin. He went back to Italy to teach Economics at the University of Trento, followed by the University of Turin to then return as Rector at his alma mater, Bocconi University. His training as an economist led to his appointment as European Commissioner in charge of the Internal Market, Financial Services and Tax Policy in 1994, to then be named European Commissioner in charge of Competition in 1999. It is in the European Commission that he earned the nickname “Super Mario”, and for his work that he was honoured as Senator for Life by Italian President Giorgio Napolitano.",
-      "location": "Oculus Room OC1.05",
-      "email": "eva@example.com",
-      "phone": "+1-541-754-3010",
-      "id": "3"
-    }, {
-      "name": "Cecilia Skingsley",
-      "profilePic": "assets/img/speakers/cecilia_skingsley.png",
-      "twitter": "ionicframework",
-      "about": "Cecilia Skingsley is the Deputy Governor of the Sveriges Riksbank. The topic of her speech will revolve around Sweden’s transition towards a cashless society and the visionary project of introducing the first Digital Central Bank currency in the world, the E-Krona. Cecilia Skingsley took up the post of Deputy Governor of the Swedish Riksbank in May 2013, with a term of office of six years. She represents the Riksbank on the Committee on the Global Financial System (CGFS) and on the Euro Retail Payments Board (ERPB). She is also the Governor of the Riksbank’s alternative on the Board of Directors of the BIS and chairs the retail payments council. In October 2016, Ms Skingsley was appointed to co-chair the World Economic Forum’s working group Global Future Council on the Future of Financial and Monetary Systems. Ms Skingsley holds a BSc in Economics and Political Science from Stockholm University and a financial analyst diploma. She was previously Chief Economist and Head of Analysis at Swedbank during the 2007-2008 Financial Crisis and has also worked at Dagens Industri, ABN Amro Bank, and the Ministry of Finance. You may find the Sveriges Riksbank’s First Interim Report on the E-Krona under this link: http://www.riksbank.se/Documents/Rapporter/E-krona/2017/rapport_ekrona_170920_eng.pdf",
-      "location": "Oculus Room OC1.05",
-      "email": "ellie@example.com",
-      "phone": "+1-541-754-3010",
-      "id": "4"
-    }, {
-      "name": "Tawakkol Karman",
-      "profilePic": "assets/img/speakers/tawakkol_karman.png",
-      "twitter": "ionicframework",
-      "about": "Journalist and human rights activist Tawakkol Karman is the first and only Arab woman to be awarded the Nobel Peace Prize. Encountering first hand restrictions and threats from the Yemeni government blocking her journalistic endeavours, Karman co-founded Women Journalist Without Chains in 2005 to promote women’s rights, civil rights, and freedom of speech. She organised marches, staged sit-ins and mounted media campaigns against the regime, ultimately effectuating the removal of Ali Abdullah Saleh as president in 2011. Since then, Karman has continued her campaign for free and open press and continues to be a vocal voice on the struggle for the expansion of democratic rights in the Middle East.",
-      "location": "Oculus Room OC1.05",
-      "email": "gino@example.com",
-      "phone": "+1-541-754-3010",
-      "id": "5"
-    }, {
-      "name": "Laurence Tubiana",
-      "profilePic": "assets/img/speakers/laurence_tubiana.png",
-      "twitter": "ionicframework",
-      "about": "Laurence Tubiana is the CEO of the European Climate Foundation and the key architect of the landmark COP21 Paris Agreement. After obtaining her doctorate in economics at Sciences Po, Laurence Tubiana started her career as Research Director for the French Institute for Agricultural Research. She went on to found and lead Solagral, an NGO working on food security and global environment, as well as serve as Senior Adviser on the Environment to Former French Prime Minister Lionel Jospin to help with the negotiations for the Kyoto Protocol. She founded and until recently chaired the Paris-based Institute of Sustainable Development and International Relations (IDDRI) and was appointed High Level Champion for climate action following her integral role during and in preparation of the momentous 2015 COP21 United Nations Climate Change Conference. Laurence Tubiana has held numerous academic positions, including as a Professor and Scientific Director for the International Development and Environmental Studies Master degrees at Sciences Po, and has been a member of boards and scientific committees such as the Chines Committee on the Environment and International Development.",
-      "location": "Oculus Room OC1.05",
-      "email": "isabella@example.com",
-      "phone": "+1-541-754-3010",
-      "id": "6"
-    }, {
-      "name": "Barbara Stocking",
-      "profilePic": "assets/img/speakers/barbara_stocking.png",
-      "twitter": "ionicframework",
-      "about": "Dame Barbara Stocking is the former CEO of Oxfam. The title of her speech will be “Changing the world – needed now even more than ever”, something DBE Stocking has been doing throughout her entire career. After graduating from Cambridge, DBE Stocking had a successful career working for the World Health Organisation in West Africa and in the NHS for more than 10 years. Subsequently, she was appointed as the Chief Executive of Oxfam in 2001, which she run steadily, becoming a key figure in some of the world’s worst humanitarian crisis. Under her mandate, Oxfam was a crucial contributor in tackling the conflicts in Afghanistan and Iraq as well as the aftermath of natural disasters such as the South-Asian tsunami and the Pakistan earthquake. After running Oxfam for 12 years, she stepped down in 2013 and became president of the Murray Edwards College in Cambridge.",
-      "location": "Oculus Room OC1.05",
-      "email": "karl@example.com",
-      "phone": "+1-541-754-3010",
-      "id": "7"
-    }, {
-      "name": "Mahmoud Mohieldin",
-      "profilePic": "assets/img/speakers/mahmoud_mohieldin.png",
-      "twitter": "ionicframework",
-      "about": "Mahmoud Mohieldin is the World Bank Group Senior Vice President for the 2030 Development Agenda. After obtaining his doctorate at Warwick, where he co-founded the Economics Society, Dr.Mohieldin proceeded to make substantial contributions to the development of Egypt’s economy, holding senior positions at various government ministries and in the private sector. Most notably, Dr.Mohieldin served as Minister of Investment, where he led a comprehensive reform program to modernise and liberalise the economy - earning Egypt the distinction as Top Reformer in the Doing Business Report for four years. Dr.Mohieldin also served on multiple boards of directors, including the Central Bank of Egypt, and was selected a Young Global Leader of the World Economic Forum. Away from the public and private sector, he was Professor of Economics and Finance at Cairo University, is an honorary professor at Durham University and member of the Advisory Board of the Durham Business School. He has authored numerous publications and articles in leading journals in the fields of international finance, economics, and development, both in English and Arabic.",
-      "location": "Oculus Room OC1.05",
-      "email": "lionel@example.com",
-      "phone": "+1-541-754-3010",
-      "id": "8"
-    }, {
-      "name": "Wendy Carlin",
-      "profilePic": "assets/img/speakers/wendy_carlin.png",
-      "twitter": "ionicframework",
-      "about": "Wendy Carlin is the Professor of Economics at University College London. Prof. Carlin has undertaken research focusing primarily on macroeconomics, institutions and economic performance, and the economics of transition; with several works looking into macroeconomic policy and integrating the financial system in the macroeconomic model. Alongside her academic role, Professor Carlin is a research fellow at the Centre for Economic Policy Research and on the expert advisory panel of the Office for Budget Responsibility. She is also leading the international CORE project to revolutionise the way Economics is taught at university by providing a more problem-motivated and interactive way to learn economics whilst also bringing recent developments into the learning environment. The eBook the project has so far produced is used by highly respected institutions all over the world including Sciences-Po, UCL and the Toulouse School of Economics. The project aims to take what is exciting about being an economist today, and bringing that excitement to the classroom.",
-      "location": "Oculus OC1.05",
-      "email": "molly@example.com",
-      "phone": "+1-541-754-3010",
-      "id": "9"
-    }, {
-      "name": "Guy Standing",
-      "profilePic": "assets/img/speakers/guy_standing.png",
-      "twitter": "ionicframework",
-      "about": "Guy Standing is the founder member and honorary co-president of the Basic Income Earth Network (BIEN). After obtaining a doctorate in Economics from the University of Cambridge and a master’s degree in Industrial Relations from the University of Illinois, Guy Standing held numerous senior positions at the ILO, including Director of the Labour Market Policies Branch, Director of the Central and Eastern European Team and Director of the Socio-Economic Security Programme. More recently Professor Standing has become a founder member and honorary co-president of the Basic Income Earth Network (BIEN), an international non-governmental organisation that brings together economists, philosophers and other social scientist from over 50 countries and promotes basic income. He has written and edited books on unemployment, labour market flexibility, structural adjustment policies, and social protection policy. His most recent titles include „Basic Income: And How We Can Make It Happen” and „The Corruption of Capitalism: Why Rentiers Thrive and Work Does Not Pay.”",
-      "location": "Oculus OC1.05",
-      "email": "paul@example.com",
-      "phone": "+1-541-754-3010",
-      "id": "10"
-    }, {
-      "name": "Arun Advani",
-      "profilePic": "assets/img/speakers/arun_advani.png",
-      "twitter": "ionicframework",
-      "about": "Arun Advani is an Assistant Professor at the University of Warwick. Dr. Advani’s career comprises positions as Deputy Director and Research Associate at CAGE and Research Fellow at CRETA as well as at the Institute for Fiscal Studies. Dr. Advani’s research primarily revolves around the topical fields of development economics and public policy, where his innovative approach greatly contributes to the understanding of issues in development economics. His recently published study `Insurance Networks and Endogenous Poverty Traps' provides a novel explanation for the lack of profitable investments in poor households. Featured on the World Bank Development Impact Blog and as the top story in the Weekly Newsletter from the Financial Access Initiative, the paper highlights the ways to improve the cost-effectiveness of the capital transfer programs. As a Research Fellow at the IFS, Dr. Advani also co-authored a numerous policy reports and comments on environmental taxation in the UK, as well as worked on issues of environmental economics.",
-      "location": "Everywhere",
-      "email": "rachel@example.com",
-      "phone": "+1-541-754-3010",
-      "id": "11"
-    }, {
-      "name": "Helios Herrera",
-      "profilePic": "assets/img/speakers/helios_herrera.png",
-      "twitter": "ionicframework",
-      "about": "Helios Herrera is an Associate Professor of Economics at the University of Warwick. Prof Herrera specialises in Political Economy, Applied Theory, Macroeconomics, and Experimental and Financial Economics. He is the coordinator of the Political Economy and Public Economics (PEPE) Warwick Research Group. His research interests involve voter turnout, democratic systems of government, as well as populism. His talk will indeed focus on a very controversial topic he is currently researching: economic populism, which has come back strongly in the western world as the current economic insecurity fuelled demand for populist policies. Before coming to Warwick, Prof Herrera served various academic posts, including Associate Professor at HEC Montreal and Lecturer at Columbia University’s School of International and Public Affairs. He earned his undergraduate degree in Physics from the University of Pavia, and his PhD in Economics from New York University (NYU). Here is an article from the Economist, “The power of populists”, which features Prof. Herrera’s research: https://www.economist.com/…/21725298-when-elites-appear-ine…",
-      "location": "Everywhere",
-      "email": "ted@example.com",
-      "phone": "+1-541-754-3010",
-      "id": "12"
-    }, {
-      "name": "Ian Cross",
-      "profilePic": "assets/img/speakers/ian_cross.png",
-      "twitter": "ionicframework",
-      "about": "Ian Cross is a medical doctor with Doctors Without Borders (MSF). With MSF Dr. Cross has worked at the very centre of what the UN describes as “the world’s fastest growing refugee crisis” – a crisis which has since August 2017 displaced near 600,000 Rohingya refugees from Myanmar who have crossed the border to Bangladesh to flee from violence and persecution. Having treated refugees and seen the many tragedies first hand Dr. Cross is uniquely positioned to offer insights into the abhorrent human rights crisis and MSF’s immense contribution to the affected minorities. Founded in 1971, MFS has continually helped tens of millions of people in more than 80 countries by providing medical care where it is most needed. MSF’s remarkable action in response to conflicts, epidemics and other catastrophes is rightfully reflected in its awarding of the Nobel Peace Prize in 1999 as well as the Indira Gandhi Prize in 1996. Since its establishment, the organization is not only committed to saving lives, but also exposing injustice, as ‘silence can kill’; such message is more than apposite today, and Dr. Cross is here promoting it in this year’s summit.",
-      "location": "Everywhere",
-      "email": "ted@example.com",
-      "phone": "+1-541-754-3010",
-      "id": "12"
-    }],
+        "speakers": [{
+          "name": "Mervyn King",
+          "profilePic": "assets/img/speakers/mervyn_king.png",
+          "title": "Lessons from the Financial Crisis: Ten Years On",
+          "twitter": "ionicframework",
+          "about": "Baron King of Lothbury, the Governor of the Bank of England during the Financial Crisis of 2007-2008 and one of the most important central bankers of the 21st century. Following a successful career in academia, including teaching at MIT and Harvard, Lord King went on to join the Bank of England in 1991 as Chief Economist. He would then lead it from 2003-2013 as Governor and oversaw the Bank during the financial crisis and the Great Recession. Lord King is also a prominent author, most famously known for ‘The End of Alchemy’, one of the most relevant books to come out of the financial crisis. After leaving the Bank in 2013, he was appointed a life peer and entered the House of Lords as a crossbencher in July 2013. Since then he has retaken his career in academia as a Professor at the Stern School of Business in New York.",
+          "location": "Oculus Room OC1.05",
+          "email": "MKing@example.com",
+          "phone": "+1-541-754-3010",
+          "id": "1"
+        }, {
+          "name": "John Taylor",
+          "profilePic": "assets/img/speakers/john_taylor.png",
+          "title": "Central Bank Models: Lessons from the Past and Ideas for the Future.",
+          "twitter": "ionicframework",
+          "about": "Professor Taylor is the founding father of the paradigm-shifting Taylor Rule used by almost all Central Banks in the world. During his distinguished career, Prof. Taylor has amongst other key roles served on the President’s Council of Economic Advisers, held the position of US Treasury Under Secretary for International Affairs and currently sits on the G20 Eminent Persons Group on Global Financial Governance. During his time at the US Treasury, Taylor was most notably responsible for the oversight of the IMF and the World Bank along with coordinating policy with the G-7 and G-20. His academic advisory and pioneering contributions have been universally acclaimed. Prof. Taylor has been credited by two Former Chairmen of the Federal Reserve, Ben Bernanke for its “influence on monetary theory and policy” and Chair Janet Yellen for “affecting the way policymakers and economists analyze the economy and approach monetary policy”. In 2017, Taylor was considered, alongside Jerome H. Powell, by President Trump as one of the nominees to succeed Janet Yellen as Chair of the Federal Reserve.",
+          "location": "Oculus Room OC1.05",
+          "email": "donald@example.com",
+          "phone": "+1-541-754-3010",
+          "id": "2"
+        }, {
+          "name": "Mario Monti",
+          "profilePic": "assets/img/speakers/mario_monti.png",
+          "title": "Where is the EU heading? - Personal reflections",
+          "twitter": "ionicframework",
+          "about": "Mario Monti is the President of Bocconi University. In 2011, Monti was appointed Prime Minister of Italy as a technocratic government was formed to rescue the country from financial ruin. He then proceeded to found his own party in 2013, Civic Choice, which was the fourth largest in that year’s election. He holds a degree in Economics from Bocconi University and pursued his graduate studies at Yale University under the supervision of Nobel Prize Laureate James Tobin. He went back to Italy to teach Economics at the University of Trento, followed by the University of Turin to then return as Rector at his alma mater, Bocconi University. His training as an economist led to his appointment as European Commissioner in charge of the Internal Market, Financial Services and Tax Policy in 1994, to then be named European Commissioner in charge of Competition in 1999. It is in the European Commission that he earned the nickname “Super Mario”, and for his work that he was honoured as Senator for Life by Italian President Giorgio Napolitano.",
+          "location": "Oculus Room OC1.05",
+          "email": "eva@example.com",
+          "phone": "+1-541-754-3010",
+          "id": "3"
+        }, {
+          "name": "Cecilia Skingsley",
+          "profilePic": "assets/img/speakers/cecilia_skingsley.png",
+          "title": "Money and central banking in the digital society",
+          "twitter": "ionicframework",
+          "about": "Cecilia Skingsley is the Deputy Governor of the Sveriges Riksbank. The topic of her speech will revolve around Sweden’s transition towards a cashless society and the visionary project of introducing the first Digital Central Bank currency in the world, the E-Krona. Cecilia Skingsley took up the post of Deputy Governor of the Swedish Riksbank in May 2013, with a term of office of six years. She represents the Riksbank on the Committee on the Global Financial System (CGFS) and on the Euro Retail Payments Board (ERPB). She is also the Governor of the Riksbank’s alternative on the Board of Directors of the BIS and chairs the retail payments council. In October 2016, Ms Skingsley was appointed to co-chair the World Economic Forum’s working group Global Future Council on the Future of Financial and Monetary Systems. Ms Skingsley holds a BSc in Economics and Political Science from Stockholm University and a financial analyst diploma. She was previously Chief Economist and Head of Analysis at Swedbank during the 2007-2008 Financial Crisis and has also worked at Dagens Industri, ABN Amro Bank, and the Ministry of Finance. You may find the Sveriges Riksbank’s First Interim Report on the E-Krona under this link: http://www.riksbank.se/Documents/Rapporter/E-krona/2017/rapport_ekrona_170920_eng.pdf",
+          "location": "Oculus Room OC1.05",
+          "email": "ellie@example.com",
+          "phone": "+1-541-754-3010",
+          "id": "4"
+        }, {
+          "name": "Tawakkol Karman",
+          "profilePic": "assets/img/speakers/tawakkol_karman.png",
+          "title": "The challenges of human right's activist in hostile environments Around the world",
+          "twitter": "ionicframework",
+          "about": "Journalist and human rights activist Tawakkol Karman is the first and only Arab woman to be awarded the Nobel Peace Prize. Encountering first hand restrictions and threats from the Yemeni government blocking her journalistic endeavours, Karman co-founded Women Journalist Without Chains in 2005 to promote women’s rights, civil rights, and freedom of speech. She organised marches, staged sit-ins and mounted media campaigns against the regime, ultimately effectuating the removal of Ali Abdullah Saleh as president in 2011. Since then, Karman has continued her campaign for free and open press and continues to be a vocal voice on the struggle for the expansion of democratic rights in the Middle East.",
+          "location": "Oculus Room OC1.05",
+          "email": "gino@example.com",
+          "phone": "+1-541-754-3010",
+          "id": "5"
+        }, {
+          "name": "Laurence Tubiana",
+          "profilePic": "assets/img/speakers/laurence_tubiana.png",
+          "title": "A New DNA for Climate Governance",
+          "twitter": "ionicframework",
+          "about": "Laurence Tubiana is the CEO of the European Climate Foundation and the key architect of the landmark COP21 Paris Agreement. After obtaining her doctorate in economics at Sciences Po, Laurence Tubiana started her career as Research Director for the French Institute for Agricultural Research. She went on to found and lead Solagral, an NGO working on food security and global environment, as well as serve as Senior Adviser on the Environment to Former French Prime Minister Lionel Jospin to help with the negotiations for the Kyoto Protocol. She founded and until recently chaired the Paris-based Institute of Sustainable Development and International Relations (IDDRI) and was appointed High Level Champion for climate action following her integral role during and in preparation of the momentous 2015 COP21 United Nations Climate Change Conference. Laurence Tubiana has held numerous academic positions, including as a Professor and Scientific Director for the International Development and Environmental Studies Master degrees at Sciences Po, and has been a member of boards and scientific committees such as the Chines Committee on the Environment and International Development.",
+          "location": "Oculus Room OC1.05",
+          "email": "isabella@example.com",
+          "phone": "+1-541-754-3010",
+          "id": "6"
+        }, {
+          "name": "Barbara Stocking",
+          "profilePic": "assets/img/speakers/barbara_stocking.png",
+          "title": "Changing the world: needed now even more than ever",
+          "twitter": "ionicframework",
+          "about": "Dame Barbara Stocking is the former CEO of Oxfam. The title of her speech will be “Changing the world – needed now even more than ever”, something DBE Stocking has been doing throughout her entire career. After graduating from Cambridge, DBE Stocking had a successful career working for the World Health Organisation in West Africa and in the NHS for more than 10 years. Subsequently, she was appointed as the Chief Executive of Oxfam in 2001, which she run steadily, becoming a key figure in some of the world’s worst humanitarian crisis. Under her mandate, Oxfam was a crucial contributor in tackling the conflicts in Afghanistan and Iraq as well as the aftermath of natural disasters such as the South-Asian tsunami and the Pakistan earthquake. After running Oxfam for 12 years, she stepped down in 2013 and became president of the Murray Edwards College in Cambridge.",
+          "location": "Oculus Room OC1.05",
+          "email": "karl@example.com",
+          "phone": "+1-541-754-3010",
+          "id": "7"
+        }, {
+          "name": "Mahmoud Mohieldin",
+          "profilePic": "assets/img/speakers/mahmoud_mohieldin.png",
+          "title": "Implementing the SDGs in a Changing World",
+          "twitter": "ionicframework",
+          "about": "Mahmoud Mohieldin is the World Bank Group Senior Vice President for the 2030 Development Agenda. After obtaining his doctorate at Warwick, where he co-founded the Economics Society, Dr.Mohieldin proceeded to make substantial contributions to the development of Egypt’s economy, holding senior positions at various government ministries and in the private sector. Most notably, Dr.Mohieldin served as Minister of Investment, where he led a comprehensive reform program to modernise and liberalise the economy - earning Egypt the distinction as Top Reformer in the Doing Business Report for four years. Dr.Mohieldin also served on multiple boards of directors, including the Central Bank of Egypt, and was selected a Young Global Leader of the World Economic Forum. Away from the public and private sector, he was Professor of Economics and Finance at Cairo University, is an honorary professor at Durham University and member of the Advisory Board of the Durham Business School. He has authored numerous publications and articles in leading journals in the fields of international finance, economics, and development, both in English and Arabic.",
+          "location": "Oculus Room OC1.05",
+          "email": "lionel@example.com",
+          "phone": "+1-541-754-3010",
+          "id": "8"
+        }, {
+          "name": "Wendy Carlin",
+          "profilePic": "assets/img/speakers/wendy_carlin.png",
+          "title": "Trump, Brexit and Economics: What we teach matters",
+          "twitter": "ionicframework",
+          "about": "Wendy Carlin is the Professor of Economics at University College London. Prof. Carlin has undertaken research focusing primarily on macroeconomics, institutions and economic performance, and the economics of transition; with several works looking into macroeconomic policy and integrating the financial system in the macroeconomic model. Alongside her academic role, Professor Carlin is a research fellow at the Centre for Economic Policy Research and on the expert advisory panel of the Office for Budget Responsibility. She is also leading the international CORE project to revolutionise the way Economics is taught at university by providing a more problem-motivated and interactive way to learn economics whilst also bringing recent developments into the learning environment. The eBook the project has so far produced is used by highly respected institutions all over the world including Sciences-Po, UCL and the Toulouse School of Economics. The project aims to take what is exciting about being an economist today, and bringing that excitement to the classroom.",
+          "location": "Oculus OC1.05",
+          "email": "molly@example.com",
+          "phone": "+1-541-754-3010",
+          "id": "9"
+        }, {
+          "name": "Guy Standing",
+          "profilePic": "assets/img/speakers/guy_standing.png",
+          "title": "Rentier Capitalism and Basic Income",
+          "twitter": "ionicframework",
+          "about": "Guy Standing is the founder member and honorary co-president of the Basic Income Earth Network (BIEN). After obtaining a doctorate in Economics from the University of Cambridge and a master’s degree in Industrial Relations from the University of Illinois, Guy Standing held numerous senior positions at the ILO, including Director of the Labour Market Policies Branch, Director of the Central and Eastern European Team and Director of the Socio-Economic Security Programme. More recently Professor Standing has become a founder member and honorary co-president of the Basic Income Earth Network (BIEN), an international non-governmental organisation that brings together economists, philosophers and other social scientist from over 50 countries and promotes basic income. He has written and edited books on unemployment, labour market flexibility, structural adjustment policies, and social protection policy. His most recent titles include „Basic Income: And How We Can Make It Happen” and „The Corruption of Capitalism: Why Rentiers Thrive and Work Does Not Pay.”",
+          "location": "Oculus OC1.05",
+          "email": "paul@example.com",
+          "phone": "+1-541-754-3010",
+          "id": "10"
+        }, {
+          "name": "Arun Advani",
+          "profilePic": "assets/img/speakers/arun_advani.png",
+          "title": "The Problem of Persistent Poverty",
+          "twitter": "ionicframework",
+          "about": "Arun Advani is an Assistant Professor at the University of Warwick. Dr. Advani’s career comprises positions as Deputy Director and Research Associate at CAGE and Research Fellow at CRETA as well as at the Institute for Fiscal Studies. Dr. Advani’s research primarily revolves around the topical fields of development economics and public policy, where his innovative approach greatly contributes to the understanding of issues in development economics. His recently published study `Insurance Networks and Endogenous Poverty Traps' provides a novel explanation for the lack of profitable investments in poor households. Featured on the World Bank Development Impact Blog and as the top story in the Weekly Newsletter from the Financial Access Initiative, the paper highlights the ways to improve the cost-effectiveness of the capital transfer programs. As a Research Fellow at the IFS, Dr. Advani also co-authored a numerous policy reports and comments on environmental taxation in the UK, as well as worked on issues of environmental economics.",
+          "location": "Everywhere",
+          "email": "rachel@example.com",
+          "phone": "+1-541-754-3010",
+          "id": "11"
+        }, {
+          "name": "Helios Herrera",
+          "profilePic": "assets/img/speakers/helios_herrera.png",
+          "title": "Economic Populism",
+          "twitter": "ionicframework",
+          "about": "Helios Herrera is an Associate Professor of Economics at the University of Warwick. Prof Herrera specialises in Political Economy, Applied Theory, Macroeconomics, and Experimental and Financial Economics. He is the coordinator of the Political Economy and Public Economics (PEPE) Warwick Research Group. His research interests involve voter turnout, democratic systems of government, as well as populism. His talk will indeed focus on a very controversial topic he is currently researching: economic populism, which has come back strongly in the western world as the current economic insecurity fuelled demand for populist policies. Before coming to Warwick, Prof Herrera served various academic posts, including Associate Professor at HEC Montreal and Lecturer at Columbia University’s School of International and Public Affairs. He earned his undergraduate degree in Physics from the University of Pavia, and his PhD in Economics from New York University (NYU). Here is an article from the Economist, “The power of populists”, which features Prof. Herrera’s research: https://www.economist.com/…/21725298-when-elites-appear-ine…",
+          "location": "Everywhere",
+          "email": "ted@example.com",
+          "phone": "+1-541-754-3010",
+          "id": "12"
+        }, {
+          "name": "Ian Cross",
+          "profilePic": "assets/img/speakers/ian_cross.png",
+          "title": "The Rohingya Crisis",
+          "twitter": "ionicframework",
+          "about": "Ian Cross is a medical doctor with Doctors Without Borders (MSF). With MSF Dr. Cross has worked at the very centre of what the UN describes as “the world’s fastest growing refugee crisis” – a crisis which has since August 2017 displaced near 600,000 Rohingya refugees from Myanmar who have crossed the border to Bangladesh to flee from violence and persecution. Having treated refugees and seen the many tragedies first hand Dr. Cross is uniquely positioned to offer insights into the abhorrent human rights crisis and MSF’s immense contribution to the affected minorities. Founded in 1971, MFS has continually helped tens of millions of people in more than 80 countries by providing medical care where it is most needed. MSF’s remarkable action in response to conflicts, epidemics and other catastrophes is rightfully reflected in its awarding of the Nobel Peace Prize in 1999 as well as the Indira Gandhi Prize in 1996. Since its establishment, the organization is not only committed to saving lives, but also exposing injustice, as ‘silence can kill’; such message is more than apposite today, and Dr. Cross is here promoting it in this year’s summit.",
+          "location": "Everywhere",
+          "email": "ted@example.com",
+          "phone": "+1-541-754-3010",
+          "id": "13"
+        }],
 
 
 

@@ -9,6 +9,17 @@ page-map {
     width: 320px;
     background-color : transparent;
   }
+  ion-slide.swiper-slide {
+      left:1%;
+  }
+
+  .slide-zoom {
+      background: #e6e6e6;
+  }
+
+  .thumb-img {
+      padding: 10px;
+  }
 }
 
 page-map ion-content {
