@@ -6,6 +6,9 @@ import { IonicApp, IonicModule, IonicErrorHandler } from 'ionic-angular';
 
 import { InAppBrowser } from '@ionic-native/in-app-browser';
 import { SplashScreen } from '@ionic-native/splash-screen';
+import { DocumentViewer } from '@ionic-native/document-viewer';
+//import { PdfViewerComponent } from 'ng2-pdf-viewer';
+
 
 import { IonicStorageModule } from '@ionic/storage';
 
@@ -39,6 +42,7 @@ import { UserData } from '../providers/user-data';
 @NgModule({
   declarations: [
     ConferenceApp,
+    //PdfViewerComponent,
     AboutPage,
     AccountPage,
     LoginPage,
@@ -114,6 +118,7 @@ import { UserData } from '../providers/user-data';
     ConferenceData,
     UserData,
     InAppBrowser,
+    DocumentViewer,
     SplashScreen
   ]
 })

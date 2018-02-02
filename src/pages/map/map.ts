@@ -14,6 +14,8 @@ declare var google: any;*/
   templateUrl: 'map.html'
 })
 export class MapPage {
+  pdfSrc: string = '/pdf-test.pdf';
+
   /*
   @ViewChild('mapCanvas') mapElement: ElementRef;
   constructor(public confData: ConferenceData, public platform: Platform) {
