@@ -4,8 +4,8 @@ Forked from https://github.com/ionic-team/ionic-conference-app
 
 ## Demo
 
-![Alt text](./resources/intro.jpg)
-![Alt text](./resources/menu.jpg)
+![alt-text-1](./resources/intro.jpg) ![alt-text-2](./resources/menu.jpg)
+
 
 ## Deploying
 
