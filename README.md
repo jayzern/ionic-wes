@@ -5,20 +5,20 @@ Forked from https://github.com/ionic-team/ionic-conference-app
 ## Demo
 
 <p float="left">
-  <img src="./resources/intro.jpg" width="200" />
-  <img src="./resources/menu.jpg" width="200" /> 
-  <img src="./resources/schedules.jpg" width="200" /> 
+  <img src="./resources/intro.jpg" width="250" />
+  <img src="./resources/menu.jpg" width="250" /> 
+  <img src="./resources/schedules.jpg" width="250" /> 
 </p>
 
 <p float="left">
-  <img src="./resources/q&a.jpg" width="200" />
-  <img src="./resources/about.jpg" width="200" /> 
-  <img src="./resources/map.jpg" width="200" /> 
+  <img src="./resources/q&a.jpg" width="250" />
+  <img src="./resources/about.jpg" width="250" /> 
+  <img src="./resources/map.jpg" width="250" /> 
 </p>
 
 <p float="left">
-  <img src="./resources/about.jpg" width="200" />
-  <img src="./resources/teams.jpg" width="200" /> 
+  <img src="./resources/about.jpg" width="250" />
+  <img src="./resources/teams.jpg" width="250" /> 
 </p>
 
 
