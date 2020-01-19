@@ -4,7 +4,9 @@ Forked from https://github.com/ionic-team/ionic-conference-app
 
 ## Demo
 
-![alt-text-1](./resources/intro.jpg) ![alt-text-2](./resources/menu.jpg)
+![alt-text-1](./resources/intro.jpg) <!-- .element height="20%" width="20%" -->
+
+![alt-text-2](./resources/menu.jpg) <!-- .element height="20%" width="20%" -->
 
 
 ## Deploying
